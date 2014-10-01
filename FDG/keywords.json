@@ -1,0 +1,509 @@
+{
+  "acad": {
+    "papers": 2
+  },
+  "acid": {
+    "papers": 3
+  },
+  "activation": {
+    "papers": 2
+  },
+  "activity": {
+    "papers": 5
+  },
+  "agent": {
+    "papers": 2
+  },
+  "agents": {
+    "papers": 2
+  },
+  "agonist": {
+    "papers": 2
+  },
+  "albumin": {
+    "papers": 2
+  },
+  "aldehyde": {
+    "papers": 2
+  },
+  "angew": {
+    "papers": 3
+  },
+  "anti": {
+    "papers": 2
+  },
+  "antibodies": {
+    "papers": 2
+  },
+  "antibody": {
+    "papers": 3
+  },
+  "antigen": {
+    "papers": 2
+  },
+  "assay": {
+    "papers": 4
+  },
+  "assembly": {
+    "papers": 4
+  },
+  "based": {
+    "papers": 2
+  },
+  "bertozzi": {
+    "papers": 2
+  },
+  "binding": {
+    "papers": 3
+  },
+  "bioconjugate": {
+    "papers": 2
+  },
+  "biol": {
+    "papers": 3
+  },
+  "biophys": {
+    "papers": 2
+  },
+  "biotin": {
+    "papers": 2
+  },
+  "botulinum": {
+    "papers": 2
+  },
+  "breast": {
+    "papers": 2
+  },
+  "cancer": {
+    "papers": 7
+  },
+  "carried": {
+    "papers": 2
+  },
+  "cell": {
+    "papers": 6
+  },
+  "cells": {
+    "papers": 10
+  },
+  "chem": {
+    "papers": 11
+  },
+  "chemical": {
+    "papers": 4
+  },
+  "chemistry": {
+    "papers": 3
+  },
+  "click": {
+    "papers": 3
+  },
+  "commun": {
+    "papers": 2
+  },
+  "complex": {
+    "papers": 2
+  },
+  "complexes": {
+    "papers": 2
+  },
+  "compound": {
+    "papers": 3
+  },
+  "conjugate": {
+    "papers": 3
+  },
+  "conjugates": {
+    "papers": 6
+  },
+  "conjugation": {
+    "papers": 3
+  },
+  "containing": {
+    "papers": 2
+  },
+  "contrast": {
+    "papers": 3
+  },
+  "copper": {
+    "papers": 2
+  },
+  "cox": {
+    "papers": 2
+  },
+  "cross": {
+    "papers": 3
+  },
+  "cyclic": {
+    "papers": 3
+  },
+  "cysteine": {
+    "papers": 2
+  },
+  "data": {
+    "papers": 2
+  },
+  "davletov": {
+    "papers": 2
+  },
+  "department": {
+    "papers": 4
+  },
+  "derivatives": {
+    "papers": 3
+  },
+  "disulfide": {
+    "papers": 2
+  },
+  "dna": {
+    "papers": 4
+  },
+  "double": {
+    "papers": 2
+  },
+  "effect": {
+    "papers": 2
+  },
+  "emission": {
+    "papers": 3
+  },
+  "eur": {
+    "papers": 2
+  },
+  "experiments": {
+    "papers": 2
+  },
+  "expression": {
+    "papers": 3
+  },
+  "fibrin": {
+    "papers": 2
+  },
+  "fibronectin": {
+    "papers": 2
+  },
+  "figure": {
+    "papers": 3
+  },
+  "fluorescence": {
+    "papers": 6
+  },
+  "fluorescent": {
+    "papers": 3
+  },
+  "free": {
+    "papers": 2
+  },
+  "gfp": {
+    "papers": 2
+  },
+  "glycan": {
+    "papers": 2
+  },
+  "glycans": {
+    "papers": 3
+  },
+  "glycosylation": {
+    "papers": 2
+  },
+  "gold": {
+    "papers": 2
+  },
+  "hippocampal": {
+    "papers": 2
+  },
+  "human": {
+    "papers": 6
+  },
+  "igg": {
+    "papers": 2
+  },
+  "image": {
+    "papers": 2
+  },
+  "images": {
+    "papers": 2
+  },
+  "imaging": {
+    "papers": 9
+  },
+  "immunized": {
+    "papers": 2
+  },
+  "immunol": {
+    "papers": 2
+  },
+  "information": {
+    "papers": 3
+  },
+  "inhibition": {
+    "papers": 2
+  },
+  "int": {
+    "papers": 4
+  },
+  "label": {
+    "papers": 2
+  },
+  "labeled": {
+    "papers": 5
+  },
+  "labeling": {
+    "papers": 4
+  },
+  "lee": {
+    "papers": 3
+  },
+  "ligand": {
+    "papers": 2
+  },
+  "ligands": {
+    "papers": 2
+  },
+  "ligation": {
+    "papers": 2
+  },
+  "linker": {
+    "papers": 3
+  },
+  "live": {
+    "papers": 2
+  },
+  "magnetic": {
+    "papers": 2
+  },
+  "med": {
+    "papers": 5
+  },
+  "method": {
+    "papers": 2
+  },
+  "methods": {
+    "papers": 2
+  },
+  "mice": {
+    "papers": 2
+  },
+  "min": {
+    "papers": 2
+  },
+  "modification": {
+    "papers": 2
+  },
+  "modified": {
+    "papers": 3
+  },
+  "mol": {
+    "papers": 2
+  },
+  "molecular": {
+    "papers": 4
+  },
+  "mri": {
+    "papers": 3
+  },
+  "nano": {
+    "papers": 2
+  },
+  "nanoparticle": {
+    "papers": 2
+  },
+  "nanoparticles": {
+    "papers": 3
+  },
+  "nat": {
+    "papers": 3
+  },
+  "natl": {
+    "papers": 2
+  },
+  "neurons": {
+    "papers": 2
+  },
+  "neurotoxin": {
+    "papers": 2
+  },
+  "nucl": {
+    "papers": 3
+  },
+  "nucleic": {
+    "papers": 2
+  },
+  "oligonucleotide": {
+    "papers": 2
+  },
+  "oligonucleotides": {
+    "papers": 4
+  },
+  "optical": {
+    "papers": 3
+  },
+  "org": {
+    "papers": 2
+  },
+  "page": {
+    "papers": 2
+  },
+  "peg": {
+    "papers": 2
+  },
+  "peptide": {
+    "papers": 4
+  },
+  "pet": {
+    "papers": 2
+  },
+  "poly": {
+    "papers": 2
+  },
+  "preparation": {
+    "papers": 2
+  },
+  "probe": {
+    "papers": 3
+  },
+  "probes": {
+    "papers": 4
+  },
+  "proc": {
+    "papers": 2
+  },
+  "procedures": {
+    "papers": 2
+  },
+  "protein": {
+    "papers": 5
+  },
+  "proteins": {
+    "papers": 4
+  },
+  "purified": {
+    "papers": 2
+  },
+  "reaction": {
+    "papers": 5
+  },
+  "reactive": {
+    "papers": 2
+  },
+  "receptor": {
+    "papers": 2
+  },
+  "receptors": {
+    "papers": 2
+  },
+  "reducing": {
+    "papers": 2
+  },
+  "res": {
+    "papers": 3
+  },
+  "resolution": {
+    "papers": 2
+  },
+  "resonance": {
+    "papers": 2
+  },
+  "responses": {
+    "papers": 2
+  },
+  "ruoslahti": {
+    "papers": 2
+  },
+  "sci": {
+    "papers": 2
+  },
+  "science": {
+    "papers": 2
+  },
+  "sds": {
+    "papers": 2
+  },
+  "serum": {
+    "papers": 2
+  },
+  "site": {
+    "papers": 4
+  },
+  "sites": {
+    "papers": 2
+  },
+  "slides": {
+    "papers": 2
+  },
+  "smith": {
+    "papers": 2
+  },
+  "soc": {
+    "papers": 3
+  },
+  "solution": {
+    "papers": 2
+  },
+  "specific": {
+    "papers": 4
+  },
+  "stable": {
+    "papers": 2
+  },
+  "stapling": {
+    "papers": 2
+  },
+  "strategy": {
+    "papers": 2
+  },
+  "supporting": {
+    "papers": 2
+  },
+  "surface": {
+    "papers": 3
+  },
+  "synthesis": {
+    "papers": 6
+  },
+  "targeted": {
+    "papers": 3
+  },
+  "targeting": {
+    "papers": 2
+  },
+  "test": {
+    "papers": 2
+  },
+  "thiol": {
+    "papers": 3
+  },
+  "tissue": {
+    "papers": 2
+  },
+  "tissues": {
+    "papers": 3
+  },
+  "treatment": {
+    "papers": 2
+  },
+  "tumor": {
+    "papers": 4
+  },
+  "united": {
+    "papers": 2
+  },
+  "using": {
+    "papers": 5
+  },
+  "van": {
+    "papers": 4
+  },
+  "via": {
+    "papers": 2
+  },
+  "vitro": {
+    "papers": 5
+  },
+  "vivo": {
+    "papers": 6
+  },
+  "zhang": {
+    "papers": 3
+  }
+}

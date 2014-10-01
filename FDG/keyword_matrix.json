@@ -1,0 +1,1482 @@
+{
+  "acad": {
+    "cell": 2,
+    "cells": 2,
+    "natl": 2,
+    "proc": 2,
+    "sci": 2
+  },
+  "acid": {
+    "compound": 2
+  },
+  "activation": {
+    "cells": 2,
+    "immunol": 2
+  },
+  "activity": {
+    "assay": 2,
+    "cancer": 3,
+    "cell": 2,
+    "cells": 3,
+    "conjugates": 2,
+    "derivatives": 2,
+    "expression": 2,
+    "fluorescent": 2,
+    "human": 2,
+    "inhibition": 2,
+    "mol": 2,
+    "res": 2,
+    "targeted": 2,
+    "treatment": 2,
+    "vitro": 2
+  },
+  "agent": {
+    "fibrin": 2,
+    "fibronectin": 2,
+    "mri": 2
+  },
+  "agents": {
+    "cancer": 2,
+    "cells": 2,
+    "conjugates": 2,
+    "imaging": 2,
+    "optical": 2
+  },
+  "agonist": {
+    "cells": 2,
+    "receptor": 2,
+    "vitro": 2
+  },
+  "albumin": {
+    "serum": 2
+  },
+  "aldehyde": {
+    "igg": 2
+  },
+  "angew": {
+    "cell": 2,
+    "cells": 2,
+    "chem": 3,
+    "commun": 2,
+    "int": 3,
+    "org": 2,
+    "synthesis": 2,
+    "van": 2
+  },
+  "anti": {
+    "conjugates": 2
+  },
+  "antibodies": {
+    "antibody": 2
+  },
+  "antibody": {
+    "antibodies": 2,
+    "peg": 2
+  },
+  "antigen": {
+    "cells": 2
+  },
+  "assay": {
+    "activity": 2,
+    "cells": 2,
+    "conjugates": 3,
+    "containing": 2,
+    "human": 2,
+    "poly": 2
+  },
+  "assembly": {
+    "botulinum": 2,
+    "chem": 2,
+    "davletov": 2,
+    "figure": 2,
+    "hippocampal": 2,
+    "neurons": 2,
+    "neurotoxin": 2,
+    "soc": 2,
+    "stapling": 2,
+    "united": 2,
+    "zhang": 2
+  },
+  "based": {
+    "cells": 2,
+    "conjugation": 2,
+    "imaging": 2,
+    "optical": 2
+  },
+  "bertozzi": {
+    "fluorescence": 2,
+    "glycans": 2,
+    "glycosylation": 2,
+    "using": 2
+  },
+  "binding": {
+    "biol": 2,
+    "cell": 2,
+    "chem": 2,
+    "ligand": 2,
+    "med": 2,
+    "receptors": 2,
+    "vitro": 2
+  },
+  "bioconjugate": {
+    "chem": 2,
+    "department": 2,
+    "imaging": 2,
+    "med": 2,
+    "nucl": 2
+  },
+  "biol": {
+    "binding": 2,
+    "cell": 3,
+    "cells": 2,
+    "chem": 3,
+    "med": 2,
+    "vitro": 2
+  },
+  "biophys": {
+    "biotin": 2,
+    "information": 2,
+    "method": 2,
+    "sites": 2
+  },
+  "biotin": {
+    "biophys": 2,
+    "information": 2,
+    "method": 2,
+    "sites": 2
+  },
+  "botulinum": {
+    "assembly": 2,
+    "davletov": 2,
+    "hippocampal": 2,
+    "neurons": 2,
+    "neurotoxin": 2,
+    "stapling": 2
+  },
+  "breast": {
+    "chem": 2,
+    "med": 2
+  },
+  "cancer": {
+    "activity": 3,
+    "agents": 2,
+    "cell": 2,
+    "cells": 4,
+    "chem": 2,
+    "chemistry": 2,
+    "click": 2,
+    "conjugates": 2,
+    "contrast": 2,
+    "derivatives": 2,
+    "fluorescent": 2,
+    "human": 2,
+    "imaging": 5,
+    "inhibition": 2,
+    "labeled": 2,
+    "live": 2,
+    "med": 2,
+    "molecular": 2,
+    "optical": 2,
+    "res": 2,
+    "specific": 2,
+    "targeted": 3,
+    "targeting": 2,
+    "tissue": 2,
+    "tissues": 3,
+    "tumor": 4,
+    "using": 2,
+    "vitro": 2,
+    "vivo": 3
+  },
+  "carried": {
+    "conjugates": 2
+  },
+  "cell": {
+    "acad": 2,
+    "activity": 2,
+    "angew": 2,
+    "binding": 2,
+    "biol": 3,
+    "cancer": 2,
+    "cells": 5,
+    "chem": 4,
+    "human": 2,
+    "imaging": 2,
+    "int": 2,
+    "labeling": 2,
+    "ligands": 2,
+    "live": 2,
+    "med": 3,
+    "mol": 2,
+    "natl": 2,
+    "proc": 2,
+    "sci": 2,
+    "synthesis": 3,
+    "tissues": 2,
+    "van": 2,
+    "vitro": 2,
+    "vivo": 2
+  },
+  "cells": {
+    "acad": 2,
+    "activation": 2,
+    "activity": 3,
+    "agents": 2,
+    "agonist": 2,
+    "angew": 2,
+    "antigen": 2,
+    "assay": 2,
+    "based": 2,
+    "biol": 2,
+    "cancer": 4,
+    "cell": 5,
+    "chem": 3,
+    "compound": 2,
+    "conjugate": 2,
+    "conjugates": 4,
+    "conjugation": 2,
+    "cox": 2,
+    "derivatives": 2,
+    "experiments": 2,
+    "fluorescence": 3,
+    "fluorescent": 2,
+    "human": 3,
+    "imaging": 4,
+    "immunol": 2,
+    "inhibition": 2,
+    "int": 2,
+    "labeling": 2,
+    "lee": 2,
+    "ligands": 2,
+    "live": 2,
+    "med": 2,
+    "mice": 2,
+    "min": 2,
+    "mol": 2,
+    "molecular": 3,
+    "nat": 2,
+    "natl": 2,
+    "oligonucleotides": 2,
+    "optical": 3,
+    "peptide": 2,
+    "probe": 2,
+    "probes": 3,
+    "proc": 2,
+    "procedures": 2,
+    "receptor": 2,
+    "res": 2,
+    "sci": 2,
+    "synthesis": 3,
+    "tissues": 2,
+    "tumor": 2,
+    "using": 3,
+    "via": 2,
+    "vitro": 3,
+    "vivo": 3,
+    "zhang": 2
+  },
+  "chem": {
+    "angew": 3,
+    "assembly": 2,
+    "binding": 2,
+    "bioconjugate": 2,
+    "biol": 3,
+    "breast": 2,
+    "cancer": 2,
+    "cell": 4,
+    "cells": 3,
+    "chemical": 3,
+    "chemistry": 2,
+    "click": 2,
+    "commun": 2,
+    "copper": 2,
+    "cyclic": 2,
+    "cysteine": 2,
+    "department": 2,
+    "disulfide": 2,
+    "dna": 2,
+    "double": 2,
+    "effect": 2,
+    "eur": 2,
+    "fluorescence": 2,
+    "fluorescent": 2,
+    "free": 2,
+    "glycan": 2,
+    "glycans": 2,
+    "human": 3,
+    "imaging": 3,
+    "int": 3,
+    "labeled": 3,
+    "labeling": 2,
+    "ligands": 2,
+    "ligation": 2,
+    "med": 5,
+    "methods": 2,
+    "modification": 2,
+    "modified": 3,
+    "nucl": 3,
+    "oligonucleotides": 2,
+    "org": 2,
+    "pet": 2,
+    "protein": 3,
+    "proteins": 2,
+    "reaction": 4,
+    "reducing": 2,
+    "site": 3,
+    "smith": 2,
+    "soc": 3,
+    "solution": 2,
+    "specific": 2,
+    "stable": 2,
+    "synthesis": 4,
+    "thiol": 3,
+    "using": 2,
+    "van": 4,
+    "vitro": 3,
+    "vivo": 2,
+    "zhang": 2
+  },
+  "chemical": {
+    "chem": 3,
+    "free": 2,
+    "protein": 2,
+    "proteins": 2,
+    "reducing": 2
+  },
+  "chemistry": {
+    "cancer": 2,
+    "chem": 2,
+    "click": 3,
+    "copper": 2,
+    "imaging": 2,
+    "labeled": 3,
+    "labeling": 2,
+    "ligation": 2,
+    "modified": 2,
+    "tumor": 2,
+    "van": 2,
+    "vivo": 2
+  },
+  "click": {
+    "cancer": 2,
+    "chem": 2,
+    "chemistry": 3,
+    "copper": 2,
+    "imaging": 2,
+    "labeled": 3,
+    "labeling": 2,
+    "ligation": 2,
+    "modified": 2,
+    "tumor": 2,
+    "van": 2,
+    "vivo": 2
+  },
+  "commun": {
+    "angew": 2,
+    "chem": 2,
+    "int": 2
+  },
+  "complex": {
+    "fluorescence": 2,
+    "using": 2
+  },
+  "complexes": {
+    "department": 2,
+    "molecular": 2
+  },
+  "compound": {
+    "acid": 2,
+    "cells": 2,
+    "conjugates": 2,
+    "vitro": 2,
+    "vivo": 2
+  },
+  "conjugate": {
+    "cells": 2,
+    "emission": 2,
+    "fluorescence": 2,
+    "nat": 2
+  },
+  "conjugates": {
+    "activity": 2,
+    "agents": 2,
+    "anti": 2,
+    "assay": 3,
+    "cancer": 2,
+    "carried": 2,
+    "cells": 4,
+    "compound": 2,
+    "conjugation": 2,
+    "containing": 2,
+    "fluorescent": 2,
+    "human": 2,
+    "imaging": 2,
+    "immunized": 2,
+    "lee": 2,
+    "oligonucleotides": 2,
+    "optical": 2,
+    "protein": 2,
+    "proteins": 2,
+    "responses": 2,
+    "using": 2,
+    "vitro": 2,
+    "vivo": 2
+  },
+  "conjugation": {
+    "based": 2,
+    "cells": 2,
+    "conjugates": 2,
+    "imaging": 2,
+    "optical": 2,
+    "preparation": 2,
+    "using": 2
+  },
+  "containing": {
+    "assay": 2,
+    "conjugates": 2
+  },
+  "contrast": {
+    "cancer": 2,
+    "imaging": 3,
+    "magnetic": 2,
+    "molecular": 2,
+    "mri": 2,
+    "nanoparticles": 2,
+    "resonance": 2
+  },
+  "copper": {
+    "chem": 2,
+    "chemistry": 2,
+    "click": 2,
+    "labeled": 2,
+    "ligation": 2,
+    "modified": 2,
+    "van": 2
+  },
+  "cox": {
+    "cells": 2,
+    "human": 2,
+    "procedures": 2
+  },
+  "cross": {
+    "figure": 2,
+    "linker": 2,
+    "peptide": 2
+  },
+  "cyclic": {
+    "chem": 2,
+    "disulfide": 2,
+    "effect": 2,
+    "fluorescence": 2,
+    "probes": 2,
+    "thiol": 2
+  },
+  "cysteine": {
+    "chem": 2,
+    "smith": 2,
+    "thiol": 2
+  },
+  "data": {
+    "test": 2
+  },
+  "davletov": {
+    "assembly": 2,
+    "botulinum": 2,
+    "hippocampal": 2,
+    "neurons": 2,
+    "neurotoxin": 2,
+    "stapling": 2
+  },
+  "department": {
+    "bioconjugate": 2,
+    "chem": 2,
+    "complexes": 2,
+    "image": 2,
+    "imaging": 3,
+    "labeling": 2,
+    "med": 2,
+    "molecular": 2,
+    "nucl": 2
+  },
+  "derivatives": {
+    "activity": 2,
+    "cancer": 2,
+    "cells": 2,
+    "imaging": 2,
+    "optical": 2,
+    "res": 2,
+    "targeted": 2
+  },
+  "disulfide": {
+    "chem": 2,
+    "cyclic": 2,
+    "effect": 2,
+    "thiol": 2
+  },
+  "dna": {
+    "chem": 2,
+    "double": 2,
+    "fluorescence": 2,
+    "gfp": 2,
+    "labeling": 2,
+    "modified": 2,
+    "oligonucleotides": 2,
+    "probes": 2,
+    "site": 2,
+    "specific": 2,
+    "zhang": 2
+  },
+  "double": {
+    "chem": 2,
+    "dna": 2,
+    "modified": 2,
+    "oligonucleotides": 2
+  },
+  "effect": {
+    "chem": 2,
+    "cyclic": 2,
+    "disulfide": 2,
+    "thiol": 2
+  },
+  "emission": {
+    "conjugate": 2,
+    "fluorescence": 2,
+    "imaging": 2,
+    "information": 2,
+    "probe": 2
+  },
+  "eur": {
+    "chem": 2,
+    "imaging": 2,
+    "med": 2,
+    "nucl": 2,
+    "reaction": 2,
+    "van": 2,
+    "vivo": 2
+  },
+  "experiments": {
+    "cells": 2,
+    "via": 2
+  },
+  "expression": {
+    "activity": 2,
+    "site": 2,
+    "synthesis": 2
+  },
+  "fibrin": {
+    "agent": 2,
+    "fibronectin": 2,
+    "mri": 2
+  },
+  "fibronectin": {
+    "agent": 2,
+    "fibrin": 2,
+    "mri": 2
+  },
+  "figure": {
+    "assembly": 2,
+    "cross": 2,
+    "linker": 2
+  },
+  "fluorescence": {
+    "bertozzi": 2,
+    "cells": 3,
+    "chem": 2,
+    "complex": 2,
+    "conjugate": 2,
+    "cyclic": 2,
+    "dna": 2,
+    "emission": 2,
+    "glycans": 2,
+    "glycosylation": 2,
+    "imaging": 2,
+    "labeling": 2,
+    "nano": 2,
+    "probe": 2,
+    "probes": 4,
+    "soc": 2,
+    "synthesis": 2,
+    "using": 3,
+    "zhang": 2
+  },
+  "fluorescent": {
+    "activity": 2,
+    "cancer": 2,
+    "cells": 2,
+    "chem": 2,
+    "conjugates": 2,
+    "human": 2,
+    "inhibition": 2,
+    "vitro": 2
+  },
+  "free": {
+    "chem": 2,
+    "chemical": 2,
+    "protein": 2,
+    "proteins": 2,
+    "reducing": 2
+  },
+  "gfp": {
+    "dna": 2
+  },
+  "glycan": {
+    "chem": 2,
+    "glycans": 2,
+    "protein": 2,
+    "reaction": 2,
+    "using": 2
+  },
+  "glycans": {
+    "bertozzi": 2,
+    "chem": 2,
+    "fluorescence": 2,
+    "glycan": 2,
+    "glycosylation": 2,
+    "lee": 2,
+    "protein": 2,
+    "reaction": 2,
+    "using": 3
+  },
+  "glycosylation": {
+    "bertozzi": 2,
+    "fluorescence": 2,
+    "glycans": 2,
+    "using": 2
+  },
+  "gold": {
+    "nanoparticle": 2,
+    "nanoparticles": 2,
+    "oligonucleotide": 2,
+    "oligonucleotides": 2
+  },
+  "hippocampal": {
+    "assembly": 2,
+    "botulinum": 2,
+    "davletov": 2,
+    "neurons": 2,
+    "neurotoxin": 2,
+    "stapling": 2
+  },
+  "human": {
+    "activity": 2,
+    "assay": 2,
+    "cancer": 2,
+    "cell": 2,
+    "cells": 3,
+    "chem": 3,
+    "conjugates": 2,
+    "cox": 2,
+    "fluorescent": 2,
+    "imaging": 2,
+    "inhibition": 2,
+    "ligands": 2,
+    "med": 2,
+    "procedures": 2,
+    "protein": 2,
+    "synthesis": 2,
+    "vitro": 3,
+    "vivo": 2
+  },
+  "igg": {
+    "aldehyde": 2
+  },
+  "image": {
+    "department": 2
+  },
+  "images": {
+    "label": 2
+  },
+  "imaging": {
+    "agents": 2,
+    "based": 2,
+    "bioconjugate": 2,
+    "cancer": 5,
+    "cell": 2,
+    "cells": 4,
+    "chem": 3,
+    "chemistry": 2,
+    "click": 2,
+    "conjugates": 2,
+    "conjugation": 2,
+    "contrast": 3,
+    "department": 3,
+    "derivatives": 2,
+    "emission": 2,
+    "eur": 2,
+    "fluorescence": 2,
+    "human": 2,
+    "labeled": 4,
+    "labeling": 2,
+    "magnetic": 2,
+    "med": 3,
+    "molecular": 2,
+    "mri": 2,
+    "nanoparticles": 2,
+    "nucl": 3,
+    "optical": 3,
+    "peptide": 2,
+    "pet": 2,
+    "probe": 3,
+    "probes": 2,
+    "purified": 2,
+    "reaction": 2,
+    "reactive": 2,
+    "resolution": 2,
+    "resonance": 2,
+    "specific": 2,
+    "strategy": 2,
+    "surface": 2,
+    "synthesis": 2,
+    "targeted": 2,
+    "tissue": 2,
+    "tissues": 2,
+    "tumor": 4,
+    "using": 2,
+    "van": 2,
+    "vitro": 2,
+    "vivo": 5
+  },
+  "immunized": {
+    "conjugates": 2,
+    "responses": 2
+  },
+  "immunol": {
+    "activation": 2,
+    "cells": 2
+  },
+  "information": {
+    "biophys": 2,
+    "biotin": 2,
+    "emission": 2,
+    "method": 2,
+    "sites": 2,
+    "supporting": 2
+  },
+  "inhibition": {
+    "activity": 2,
+    "cancer": 2,
+    "cells": 2,
+    "fluorescent": 2,
+    "human": 2,
+    "vitro": 2
+  },
+  "int": {
+    "angew": 3,
+    "cell": 2,
+    "cells": 2,
+    "chem": 3,
+    "commun": 2,
+    "molecular": 2,
+    "org": 2,
+    "ruoslahti": 2,
+    "synthesis": 2,
+    "van": 2
+  },
+  "label": {
+    "images": 2
+  },
+  "labeled": {
+    "cancer": 2,
+    "chem": 3,
+    "chemistry": 3,
+    "click": 3,
+    "copper": 2,
+    "imaging": 4,
+    "labeling": 2,
+    "ligation": 2,
+    "med": 2,
+    "modified": 2,
+    "nucl": 2,
+    "pet": 2,
+    "probe": 2,
+    "resolution": 2,
+    "strategy": 2,
+    "surface": 2,
+    "tumor": 2,
+    "van": 2,
+    "vivo": 3
+  },
+  "labeling": {
+    "cell": 2,
+    "cells": 2,
+    "chem": 2,
+    "chemistry": 2,
+    "click": 2,
+    "department": 2,
+    "dna": 2,
+    "fluorescence": 2,
+    "imaging": 2,
+    "labeled": 2,
+    "probes": 2,
+    "site": 2,
+    "specific": 2,
+    "synthesis": 2,
+    "using": 2,
+    "van": 2,
+    "vivo": 2
+  },
+  "lee": {
+    "cells": 2,
+    "conjugates": 2,
+    "glycans": 2,
+    "mice": 2,
+    "using": 2,
+    "vivo": 2
+  },
+  "ligand": {
+    "binding": 2,
+    "receptors": 2
+  },
+  "ligands": {
+    "cell": 2,
+    "cells": 2,
+    "chem": 2,
+    "human": 2,
+    "med": 2
+  },
+  "ligation": {
+    "chem": 2,
+    "chemistry": 2,
+    "click": 2,
+    "copper": 2,
+    "labeled": 2,
+    "modified": 2,
+    "van": 2
+  },
+  "linker": {
+    "cross": 2,
+    "figure": 2,
+    "protein": 2,
+    "proteins": 2,
+    "reaction": 2
+  },
+  "live": {
+    "cancer": 2,
+    "cell": 2,
+    "cells": 2,
+    "tissues": 2
+  },
+  "magnetic": {
+    "contrast": 2,
+    "imaging": 2,
+    "mri": 2,
+    "resonance": 2
+  },
+  "med": {
+    "binding": 2,
+    "bioconjugate": 2,
+    "biol": 2,
+    "breast": 2,
+    "cancer": 2,
+    "cell": 3,
+    "cells": 2,
+    "chem": 5,
+    "department": 2,
+    "eur": 2,
+    "human": 2,
+    "imaging": 3,
+    "labeled": 2,
+    "ligands": 2,
+    "nucl": 3,
+    "pet": 2,
+    "reaction": 2,
+    "synthesis": 2,
+    "van": 3,
+    "vitro": 2,
+    "vivo": 2
+  },
+  "method": {
+    "biophys": 2,
+    "biotin": 2,
+    "information": 2,
+    "sites": 2
+  },
+  "methods": {
+    "chem": 2,
+    "reaction": 2
+  },
+  "mice": {
+    "cells": 2,
+    "lee": 2,
+    "vivo": 2
+  },
+  "min": {
+    "cells": 2,
+    "molecular": 2,
+    "using": 2
+  },
+  "modification": {
+    "chem": 2
+  },
+  "modified": {
+    "chem": 3,
+    "chemistry": 2,
+    "click": 2,
+    "copper": 2,
+    "dna": 2,
+    "double": 2,
+    "labeled": 2,
+    "ligation": 2,
+    "oligonucleotides": 2,
+    "solution": 2,
+    "van": 2
+  },
+  "mol": {
+    "activity": 2,
+    "cell": 2,
+    "cells": 2
+  },
+  "molecular": {
+    "cancer": 2,
+    "cells": 3,
+    "complexes": 2,
+    "contrast": 2,
+    "department": 2,
+    "imaging": 2,
+    "int": 2,
+    "min": 2,
+    "ruoslahti": 2,
+    "using": 2,
+    "zhang": 2
+  },
+  "mri": {
+    "agent": 2,
+    "contrast": 2,
+    "fibrin": 2,
+    "fibronectin": 2,
+    "imaging": 2,
+    "magnetic": 2,
+    "resonance": 2
+  },
+  "nano": {
+    "fluorescence": 2
+  },
+  "nanoparticle": {
+    "gold": 2,
+    "nanoparticles": 2,
+    "oligonucleotide": 2,
+    "oligonucleotides": 2
+  },
+  "nanoparticles": {
+    "contrast": 2,
+    "gold": 2,
+    "imaging": 2,
+    "nanoparticle": 2,
+    "oligonucleotide": 2,
+    "oligonucleotides": 2
+  },
+  "nat": {
+    "cells": 2,
+    "conjugate": 2,
+    "science": 2
+  },
+  "natl": {
+    "acad": 2,
+    "cell": 2,
+    "cells": 2,
+    "proc": 2,
+    "sci": 2
+  },
+  "neurons": {
+    "assembly": 2,
+    "botulinum": 2,
+    "davletov": 2,
+    "hippocampal": 2,
+    "neurotoxin": 2,
+    "stapling": 2
+  },
+  "neurotoxin": {
+    "assembly": 2,
+    "botulinum": 2,
+    "davletov": 2,
+    "hippocampal": 2,
+    "neurons": 2,
+    "stapling": 2
+  },
+  "nucl": {
+    "bioconjugate": 2,
+    "chem": 3,
+    "department": 2,
+    "eur": 2,
+    "imaging": 3,
+    "labeled": 2,
+    "med": 3,
+    "pet": 2,
+    "reaction": 2,
+    "van": 2,
+    "vivo": 2
+  },
+  "nucleic": {
+    "oligonucleotides": 2,
+    "synthesis": 2
+  },
+  "oligonucleotide": {
+    "gold": 2,
+    "nanoparticle": 2,
+    "nanoparticles": 2,
+    "oligonucleotides": 2
+  },
+  "oligonucleotides": {
+    "cells": 2,
+    "chem": 2,
+    "conjugates": 2,
+    "dna": 2,
+    "double": 2,
+    "gold": 2,
+    "modified": 2,
+    "nanoparticle": 2,
+    "nanoparticles": 2,
+    "nucleic": 2,
+    "oligonucleotide": 2,
+    "specific": 2,
+    "synthesis": 2
+  },
+  "optical": {
+    "agents": 2,
+    "based": 2,
+    "cancer": 2,
+    "cells": 3,
+    "conjugates": 2,
+    "conjugation": 2,
+    "derivatives": 2,
+    "imaging": 3
+  },
+  "org": {
+    "angew": 2,
+    "chem": 2,
+    "int": 2,
+    "synthesis": 2,
+    "van": 2
+  },
+  "page": {
+    "protein": 2,
+    "reaction": 2,
+    "sds": 2
+  },
+  "peg": {
+    "antibody": 2
+  },
+  "peptide": {
+    "cells": 2,
+    "cross": 2,
+    "imaging": 2,
+    "synthesis": 2
+  },
+  "pet": {
+    "chem": 2,
+    "imaging": 2,
+    "labeled": 2,
+    "med": 2,
+    "nucl": 2
+  },
+  "poly": {
+    "assay": 2
+  },
+  "preparation": {
+    "conjugation": 2
+  },
+  "probe": {
+    "cells": 2,
+    "emission": 2,
+    "fluorescence": 2,
+    "imaging": 3,
+    "labeled": 2,
+    "probes": 2
+  },
+  "probes": {
+    "cells": 3,
+    "cyclic": 2,
+    "dna": 2,
+    "fluorescence": 4,
+    "imaging": 2,
+    "labeling": 2,
+    "probe": 2,
+    "using": 2,
+    "zhang": 2
+  },
+  "proc": {
+    "acad": 2,
+    "cell": 2,
+    "cells": 2,
+    "natl": 2,
+    "sci": 2
+  },
+  "procedures": {
+    "cells": 2,
+    "cox": 2,
+    "human": 2
+  },
+  "protein": {
+    "chem": 3,
+    "chemical": 2,
+    "conjugates": 2,
+    "free": 2,
+    "glycan": 2,
+    "glycans": 2,
+    "human": 2,
+    "linker": 2,
+    "page": 2,
+    "proteins": 4,
+    "reaction": 3,
+    "reducing": 2,
+    "sds": 2,
+    "using": 2
+  },
+  "proteins": {
+    "chem": 2,
+    "chemical": 2,
+    "conjugates": 2,
+    "free": 2,
+    "linker": 2,
+    "protein": 4,
+    "reaction": 2,
+    "reducing": 2
+  },
+  "purified": {
+    "imaging": 2,
+    "vitro": 2,
+    "vivo": 2
+  },
+  "reaction": {
+    "chem": 4,
+    "eur": 2,
+    "glycan": 2,
+    "glycans": 2,
+    "imaging": 2,
+    "linker": 2,
+    "med": 2,
+    "methods": 2,
+    "nucl": 2,
+    "page": 2,
+    "protein": 3,
+    "proteins": 2,
+    "sds": 2,
+    "site": 2,
+    "synthesis": 2,
+    "using": 2,
+    "van": 2,
+    "vitro": 2,
+    "vivo": 2
+  },
+  "reactive": {
+    "imaging": 2,
+    "synthesis": 2
+  },
+  "receptor": {
+    "agonist": 2,
+    "cells": 2,
+    "vitro": 2
+  },
+  "receptors": {
+    "binding": 2,
+    "ligand": 2
+  },
+  "reducing": {
+    "chem": 2,
+    "chemical": 2,
+    "free": 2,
+    "protein": 2,
+    "proteins": 2
+  },
+  "res": {
+    "activity": 2,
+    "cancer": 2,
+    "cells": 2,
+    "derivatives": 2,
+    "targeted": 2
+  },
+  "resolution": {
+    "imaging": 2,
+    "labeled": 2
+  },
+  "resonance": {
+    "contrast": 2,
+    "imaging": 2,
+    "magnetic": 2,
+    "mri": 2
+  },
+  "responses": {
+    "conjugates": 2,
+    "immunized": 2
+  },
+  "ruoslahti": {
+    "int": 2,
+    "molecular": 2
+  },
+  "sci": {
+    "acad": 2,
+    "cell": 2,
+    "cells": 2,
+    "natl": 2,
+    "proc": 2
+  },
+  "science": {
+    "nat": 2
+  },
+  "sds": {
+    "page": 2,
+    "protein": 2,
+    "reaction": 2
+  },
+  "serum": {
+    "albumin": 2
+  },
+  "site": {
+    "chem": 3,
+    "dna": 2,
+    "expression": 2,
+    "labeling": 2,
+    "reaction": 2,
+    "specific": 3,
+    "synthesis": 3,
+    "van": 2,
+    "vitro": 2
+  },
+  "sites": {
+    "biophys": 2,
+    "biotin": 2,
+    "information": 2,
+    "method": 2
+  },
+  "slides": {
+    "using": 2
+  },
+  "smith": {
+    "chem": 2,
+    "cysteine": 2,
+    "thiol": 2
+  },
+  "soc": {
+    "assembly": 2,
+    "chem": 3,
+    "fluorescence": 2,
+    "zhang": 2
+  },
+  "solution": {
+    "chem": 2,
+    "modified": 2
+  },
+  "specific": {
+    "cancer": 2,
+    "chem": 2,
+    "dna": 2,
+    "imaging": 2,
+    "labeling": 2,
+    "oligonucleotides": 2,
+    "site": 3,
+    "synthesis": 2,
+    "targeting": 2,
+    "van": 2
+  },
+  "stable": {
+    "chem": 2
+  },
+  "stapling": {
+    "assembly": 2,
+    "botulinum": 2,
+    "davletov": 2,
+    "hippocampal": 2,
+    "neurons": 2,
+    "neurotoxin": 2
+  },
+  "strategy": {
+    "imaging": 2,
+    "labeled": 2,
+    "vivo": 2
+  },
+  "supporting": {
+    "information": 2
+  },
+  "surface": {
+    "imaging": 2,
+    "labeled": 2,
+    "vivo": 2
+  },
+  "synthesis": {
+    "angew": 2,
+    "cell": 3,
+    "cells": 3,
+    "chem": 4,
+    "expression": 2,
+    "fluorescence": 2,
+    "human": 2,
+    "imaging": 2,
+    "int": 2,
+    "labeling": 2,
+    "med": 2,
+    "nucleic": 2,
+    "oligonucleotides": 2,
+    "org": 2,
+    "peptide": 2,
+    "reaction": 2,
+    "reactive": 2,
+    "site": 3,
+    "specific": 2,
+    "van": 3,
+    "vitro": 2
+  },
+  "targeted": {
+    "activity": 2,
+    "cancer": 3,
+    "derivatives": 2,
+    "imaging": 2,
+    "res": 2,
+    "tumor": 2
+  },
+  "targeting": {
+    "cancer": 2,
+    "specific": 2
+  },
+  "test": {
+    "data": 2
+  },
+  "thiol": {
+    "chem": 3,
+    "cyclic": 2,
+    "cysteine": 2,
+    "disulfide": 2,
+    "effect": 2,
+    "smith": 2
+  },
+  "tissue": {
+    "cancer": 2,
+    "imaging": 2,
+    "tissues": 2,
+    "tumor": 2
+  },
+  "tissues": {
+    "cancer": 3,
+    "cell": 2,
+    "cells": 2,
+    "imaging": 2,
+    "live": 2,
+    "tissue": 2,
+    "tumor": 2
+  },
+  "treatment": {
+    "activity": 2
+  },
+  "tumor": {
+    "cancer": 4,
+    "cells": 2,
+    "chemistry": 2,
+    "click": 2,
+    "imaging": 4,
+    "labeled": 2,
+    "targeted": 2,
+    "tissue": 2,
+    "tissues": 2,
+    "vivo": 3
+  },
+  "united": {
+    "assembly": 2
+  },
+  "using": {
+    "bertozzi": 2,
+    "cancer": 2,
+    "cells": 3,
+    "chem": 2,
+    "complex": 2,
+    "conjugates": 2,
+    "conjugation": 2,
+    "fluorescence": 3,
+    "glycan": 2,
+    "glycans": 3,
+    "glycosylation": 2,
+    "imaging": 2,
+    "labeling": 2,
+    "lee": 2,
+    "min": 2,
+    "molecular": 2,
+    "probes": 2,
+    "protein": 2,
+    "reaction": 2,
+    "slides": 2
+  },
+  "van": {
+    "angew": 2,
+    "cell": 2,
+    "chem": 4,
+    "chemistry": 2,
+    "click": 2,
+    "copper": 2,
+    "eur": 2,
+    "imaging": 2,
+    "int": 2,
+    "labeled": 2,
+    "labeling": 2,
+    "ligation": 2,
+    "med": 3,
+    "modified": 2,
+    "nucl": 2,
+    "org": 2,
+    "reaction": 2,
+    "site": 2,
+    "specific": 2,
+    "synthesis": 3,
+    "vivo": 2
+  },
+  "via": {
+    "cells": 2,
+    "experiments": 2
+  },
+  "vitro": {
+    "activity": 2,
+    "agonist": 2,
+    "binding": 2,
+    "biol": 2,
+    "cancer": 2,
+    "cell": 2,
+    "cells": 3,
+    "chem": 3,
+    "compound": 2,
+    "conjugates": 2,
+    "fluorescent": 2,
+    "human": 3,
+    "imaging": 2,
+    "inhibition": 2,
+    "med": 2,
+    "purified": 2,
+    "reaction": 2,
+    "receptor": 2,
+    "site": 2,
+    "synthesis": 2,
+    "vivo": 3
+  },
+  "vivo": {
+    "cancer": 3,
+    "cell": 2,
+    "cells": 3,
+    "chem": 2,
+    "chemistry": 2,
+    "click": 2,
+    "compound": 2,
+    "conjugates": 2,
+    "eur": 2,
+    "human": 2,
+    "imaging": 5,
+    "labeled": 3,
+    "labeling": 2,
+    "lee": 2,
+    "med": 2,
+    "mice": 2,
+    "nucl": 2,
+    "purified": 2,
+    "reaction": 2,
+    "strategy": 2,
+    "surface": 2,
+    "tumor": 3,
+    "van": 2,
+    "vitro": 3
+  },
+  "zhang": {
+    "assembly": 2,
+    "cells": 2,
+    "chem": 2,
+    "dna": 2,
+    "fluorescence": 2,
+    "molecular": 2,
+    "probes": 2,
+    "soc": 2
+  }
+}
