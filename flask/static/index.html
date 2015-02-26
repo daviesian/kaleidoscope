@@ -1,0 +1,151 @@
+<html>
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-family: verdana;
+}
+
+
+.node {
+  stroke: #88f;
+  stroke-width: 1.5px;
+  cursor: pointer;
+}
+
+.label {
+	text-anchor: middle;
+	cursor: pointer;
+	stroke: none;
+}
+
+.link {
+  stroke: #ccc;
+  stroke-opacity: .4;
+}
+
+
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script>
+
+var filter = [];
+
+var width = 960,
+    height = 500;
+
+var color = d3.scale.category20();
+
+var parseJsonInput = function(jsonInput, keywordsDictionary) {
+
+	var jsonResult = {"nodes": [], "links":[]};
+
+	// create the nodes.
+	var index=0;
+	var dictionary = {}
+	for (var k in jsonInput) {
+		if (jsonInput.hasOwnProperty(k)) {
+			jsonResult["nodes"].push({"name": k, "group": 1, "frequency" : keywordsDictionary[k].papers});
+			dictionary[k] = index;
+			index++;
+		}
+	}
+
+	// create links
+	for (var k in jsonInput) {
+		if (jsonInput.hasOwnProperty(k)) {
+			for (var link in jsonInput[k]) {
+				if (jsonInput[k].hasOwnProperty(link)) {
+					jsonResult["links"].push(
+					{
+						"source": jsonResult["nodes"][dictionary[k]], 
+						"target" : jsonResult["nodes"][dictionary[link]], 
+						"value" : jsonInput[k][link]
+					}
+					);
+				}		
+			}
+		}
+	}
+	
+	return jsonResult;
+}
+
+var drawGraph = function(error, data) {
+
+$("body").empty();
+
+var svg = d3.select("body")
+	.append("svg")
+    .attr("width", "100%")
+    .attr("height", "100%");
+
+var graphKeywords = data.matrix
+var keywordsDictionary = data.papers
+
+var graph = parseJsonInput(graphKeywords, keywordsDictionary);
+
+var force = d3.layout.force()
+	.nodes(graph.nodes)
+	.links(graph.links)
+			  .linkDistance(function(link, i) { 
+			  	return 1/link.value * 1000; 
+			  })
+	.gravity(0.05)
+	.distance(100)
+	.charge(-100)
+	.size([width,height])
+	.start();
+
+var links = svg.selectAll(".link")
+	.data(graph.links)
+	.enter().append("line")
+	.attr("class", "link")
+	.style("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+var nodes = svg.selectAll('.node')
+    .data(graph.nodes)
+    .enter()
+    .append('g')
+    .attr("class", "node")
+    .call(force.drag)
+    .on("click", function(n) {
+     	filter.push(n.name);
+		d3.json("/kws?filter=" + filter.join(","), drawGraph);
+    });
+
+nodes.append("circle")
+    .attr("r", 5)
+    .each(function(d,i){
+		d3.select(this).attr("r", Math.max(keywordsDictionary[d.name].papers * 5,10));
+	})
+    .style("fill", function(d) { return "#ccf"; })    
+
+nodes.append("text")
+      .text(function(d) { return d.name; })
+      .attr("class", "label");
+
+force.on("tick", function() {
+	links.attr("x1", function(d) { return d.source.x; })
+		.attr("y1", function(d) { return d.source.y; })
+		.attr("x2", function(d) { return d.target.x; })
+		.attr("y2", function(d) { return d.target.y; });
+
+	nodes.attr("transform", function(d) { 
+	    return 'translate(' + [d.x, d.y] + ')'; 
+	});
+});
+		
+}
+	
+d3.json("/kws", drawGraph);
+
+</script>
+</body>
+</html>

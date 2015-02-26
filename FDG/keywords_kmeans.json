@@ -1,0 +1,38 @@
+{
+  "base": {
+    "papers": 6
+  },
+  "capac": {
+    "papers": 3
+  },
+  "compart": {
+    "papers": 3
+  },
+  "fork": {
+    "papers": 3
+  },
+  "mechan": {
+    "papers": 33
+  },
+  "membran": {
+    "papers": 13
+  },
+  "pirna": {
+    "papers": 3
+  },
+  "polycomb": {
+    "papers": 3
+  },
+  "protein": {
+    "papers": 44
+  },
+  "repres": {
+    "papers": 9
+  },
+  "somat": {
+    "papers": 6
+  },
+  "substrat": {
+    "papers": 10
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "activity": {
+    "papers": 17
+  },
+  "binding": {
+    "papers": 22
+  },
+  "cell": {
+    "papers": 20
+  },
+  "cells": {
+    "papers": 26
+  },
+  "cellular": {
+    "papers": 11
+  },
+  "complex": {
+    "papers": 16
+  },
+  "control": {
+    "papers": 11
+  },
+  "data": {
+    "papers": 16
+  },
+  "demonstrate": {
+    "papers": 11
+  },
+  "dependent": {
+    "papers": 20
+  },
+  "differentiation": {
+    "papers": 6
+  },
+  "domain": {
+    "papers": 19
+  },
+  "domains": {
+    "papers": 11
+  },
+  "embryonic": {
+    "papers": 9
+  },
+  "essential": {
+    "papers": 13
+  },
+  "factor": {
+    "papers": 10
+  },
+  "factors": {
+    "papers": 11
+  },
+  "findings": {
+    "papers": 8
+  },
+  "formation": {
+    "papers": 12
+  },
+  "function": {
+    "papers": 13
+  },
+  "gene": {
+    "papers": 14
+  },
+  "human": {
+    "papers": 15
+  },
+  "identified": {
+    "papers": 16
+  },
+  "interaction": {
+    "papers": 13
+  },
+  "key": {
+    "papers": 17
+  },
+  "mechanism": {
+    "papers": 19
+  },
+  "mediated": {
+    "papers": 11
+  },
+  "membrane": {
+    "papers": 13
+  },
+  "mouse": {
+    "papers": 11
+  },
+  "paperclip": {
+    "papers": 12
+  },
+  "poorly": {
+    "papers": 11
+  },
+  "process": {
+    "papers": 9
+  },
+  "protein": {
+    "papers": 33
+  },
+  "proteins": {
+    "papers": 24
+  },
+  "regulation": {
+    "papers": 11
+  },
+  "results": {
+    "papers": 14
+  },
+  "reveal": {
+    "papers": 13
+  },
+  "rna": {
+    "papers": 14
+  },
+  "role": {
+    "papers": 14
+  },
+  "signaling": {
+    "papers": 16
+  },
+  "site": {
+    "papers": 8
+  },
+  "specific": {
+    "papers": 15
+  },
+  "stem": {
+    "papers": 11
+  },
+  "structure": {
+    "papers": 11
+  },
+  "structures": {
+    "papers": 12
+  },
+  "substrate": {
+    "papers": 10
+  },
+  "terminal": {
+    "papers": 9
+  },
+  "transcription": {
+    "papers": 10
+  },
+  "understood": {
+    "papers": 13
+  },
+  "using": {
+    "papers": 16
+  },
+  "yeast": {
+    "papers": 11
+  }
+}

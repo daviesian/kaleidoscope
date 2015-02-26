@@ -1,0 +1,539 @@
+{
+  "accession": {
+    "papers": 56
+  },
+  "acid": {
+    "papers": 56
+  },
+  "activated": {
+    "papers": 44
+  },
+  "added": {
+    "papers": 46
+  },
+  "address": {
+    "papers": 53
+  },
+  "alignment": {
+    "papers": 51
+  },
+  "amino": {
+    "papers": 43
+  },
+  "annu": {
+    "papers": 55
+  },
+  "antibodies": {
+    "papers": 56
+  },
+  "antibody": {
+    "papers": 53
+  },
+  "applied": {
+    "papers": 45
+  },
+  "approach": {
+    "papers": 48
+  },
+  "assembly": {
+    "papers": 51
+  },
+  "association": {
+    "papers": 55
+  },
+  "average": {
+    "papers": 54
+  },
+  "bar": {
+    "papers": 50
+  },
+  "basis": {
+    "papers": 51
+  },
+  "binds": {
+    "papers": 51
+  },
+  "bioinformatics": {
+    "papers": 41
+  },
+  "biophys": {
+    "papers": 41
+  },
+  "blot": {
+    "papers": 38
+  },
+  "body": {
+    "papers": 46
+  },
+  "bottom": {
+    "papers": 47
+  },
+  "brown": {
+    "papers": 53
+  },
+  "calculated": {
+    "papers": 56
+  },
+  "cdna": {
+    "papers": 39
+  },
+  "change": {
+    "papers": 56
+  },
+  "coli": {
+    "papers": 46
+  },
+  "collected": {
+    "papers": 47
+  },
+  "common": {
+    "papers": 55
+  },
+  "complete": {
+    "papers": 48
+  },
+  "concentration": {
+    "papers": 50
+  },
+  "constructs": {
+    "papers": 39
+  },
+  "core": {
+    "papers": 50
+  },
+  "corresponding": {
+    "papers": 52
+  },
+  "critical": {
+    "papers": 55
+  },
+  "crystal": {
+    "papers": 36
+  },
+  "culture": {
+    "papers": 53
+  },
+  "defined": {
+    "papers": 53
+  },
+  "density": {
+    "papers": 49
+  },
+  "detection": {
+    "papers": 48
+  },
+  "differences": {
+    "papers": 49
+  },
+  "disease": {
+    "papers": 51
+  },
+  "double": {
+    "papers": 54
+  },
+  "due": {
+    "papers": 54
+  },
+  "dynamics": {
+    "papers": 47
+  },
+  "endogenous": {
+    "papers": 52
+  },
+  "equally": {
+    "papers": 53
+  },
+  "error": {
+    "papers": 47
+  },
+  "example": {
+    "papers": 54
+  },
+  "expected": {
+    "papers": 46
+  },
+  "expressing": {
+    "papers": 53
+  },
+  "fixed": {
+    "papers": 56
+  },
+  "fold": {
+    "papers": 51
+  },
+  "followed": {
+    "papers": 55
+  },
+  "form": {
+    "papers": 56
+  },
+  "gel": {
+    "papers": 45
+  },
+  "generate": {
+    "papers": 52
+  },
+  "genomic": {
+    "papers": 53
+  },
+  "gfp": {
+    "papers": 50
+  },
+  "grant": {
+    "papers": 52
+  },
+  "grown": {
+    "papers": 44
+  },
+  "image": {
+    "papers": 52
+  },
+  "images": {
+    "papers": 54
+  },
+  "implications": {
+    "papers": 53
+  },
+  "incubated": {
+    "papers": 54
+  },
+  "indicates": {
+    "papers": 53
+  },
+  "inhibition": {
+    "papers": 50
+  },
+  "inhibitor": {
+    "papers": 47
+  },
+  "initial": {
+    "papers": 45
+  },
+  "institute": {
+    "papers": 53
+  },
+  "investigate": {
+    "papers": 46
+  },
+  "invitrogen": {
+    "papers": 48
+  },
+  "isolated": {
+    "papers": 48
+  },
+  "kinase": {
+    "papers": 45
+  },
+  "kit": {
+    "papers": 45
+  },
+  "light": {
+    "papers": 56
+  },
+  "lin": {
+    "papers": 47
+  },
+  "linked": {
+    "papers": 52
+  },
+  "lower": {
+    "papers": 50
+  },
+  "map": {
+    "papers": 53
+  },
+  "mapping": {
+    "papers": 44
+  },
+  "martin": {
+    "papers": 49
+  },
+  "med": {
+    "papers": 44
+  },
+  "membrane": {
+    "papers": 49
+  },
+  "method": {
+    "papers": 52
+  },
+  "mice": {
+    "papers": 49
+  },
+  "microscope": {
+    "papers": 41
+  },
+  "microscopy": {
+    "papers": 47
+  },
+  "models": {
+    "papers": 48
+  },
+  "mrna": {
+    "papers": 47
+  },
+  "mutants": {
+    "papers": 50
+  },
+  "mutation": {
+    "papers": 50
+  },
+  "nacl": {
+    "papers": 42
+  },
+  "normal": {
+    "papers": 55
+  },
+  "normalized": {
+    "papers": 53
+  },
+  "nucleic": {
+    "papers": 50
+  },
+  "org": {
+    "papers": 47
+  },
+  "organization": {
+    "papers": 51
+  },
+  "overall": {
+    "papers": 42
+  },
+  "overnight": {
+    "papers": 39
+  },
+  "page": {
+    "papers": 43
+  },
+  "particular": {
+    "papers": 46
+  },
+  "patterns": {
+    "papers": 44
+  },
+  "pcr": {
+    "papers": 49
+  },
+  "peak": {
+    "papers": 42
+  },
+  "phosphorylation": {
+    "papers": 45
+  },
+  "prepared": {
+    "papers": 52
+  },
+  "previous": {
+    "papers": 54
+  },
+  "primary": {
+    "papers": 55
+  },
+  "prior": {
+    "papers": 55
+  },
+  "process": {
+    "papers": 52
+  },
+  "program": {
+    "papers": 51
+  },
+  "provided": {
+    "papers": 56
+  },
+  "purification": {
+    "papers": 52
+  },
+  "purified": {
+    "papers": 52
+  },
+  "quantification": {
+    "papers": 48
+  },
+  "quantitative": {
+    "papers": 49
+  },
+  "range": {
+    "papers": 48
+  },
+  "ratio": {
+    "papers": 47
+  },
+  "read": {
+    "papers": 37
+  },
+  "recent": {
+    "papers": 46
+  },
+  "receptor": {
+    "papers": 53
+  },
+  "recognition": {
+    "papers": 46
+  },
+  "reference": {
+    "papers": 41
+  },
+  "regulate": {
+    "papers": 47
+  },
+  "regulatory": {
+    "papers": 52
+  },
+  "representation": {
+    "papers": 48
+  },
+  "representative": {
+    "papers": 51
+  },
+  "requires": {
+    "papers": 54
+  },
+  "residues": {
+    "papers": 47
+  },
+  "resolution": {
+    "papers": 54
+  },
+  "resulting": {
+    "papers": 46
+  },
+  "revealed": {
+    "papers": 54
+  },
+  "schematic": {
+    "papers": 53
+  },
+  "sds": {
+    "papers": 45
+  },
+  "secondary": {
+    "papers": 45
+  },
+  "selection": {
+    "papers": 46
+  },
+  "sequencing": {
+    "papers": 42
+  },
+  "serum": {
+    "papers": 37
+  },
+  "short": {
+    "papers": 50
+  },
+  "sigma": {
+    "papers": 49
+  },
+  "signals": {
+    "papers": 53
+  },
+  "significantly": {
+    "papers": 55
+  },
+  "smith": {
+    "papers": 56
+  },
+  "source": {
+    "papers": 45
+  },
+  "specificity": {
+    "papers": 47
+  },
+  "stable": {
+    "papers": 44
+  },
+  "stained": {
+    "papers": 54
+  },
+  "staining": {
+    "papers": 45
+  },
+  "struct": {
+    "papers": 49
+  },
+  "structures": {
+    "papers": 54
+  },
+  "substrate": {
+    "papers": 46
+  },
+  "supplemented": {
+    "papers": 39
+  },
+  "surface": {
+    "papers": 48
+  },
+  "synthesis": {
+    "papers": 50
+  },
+  "tables": {
+    "papers": 53
+  },
+  "targeted": {
+    "papers": 52
+  },
+  "targeting": {
+    "papers": 54
+  },
+  "targets": {
+    "papers": 46
+  },
+  "temperature": {
+    "papers": 44
+  },
+  "terminal": {
+    "papers": 55
+  },
+  "tested": {
+    "papers": 50
+  },
+  "tissue": {
+    "papers": 45
+  },
+  "transcriptional": {
+    "papers": 44
+  },
+  "transfected": {
+    "papers": 38
+  },
+  "treatment": {
+    "papers": 54
+  },
+  "trends": {
+    "papers": 54
+  },
+  "tris": {
+    "papers": 43
+  },
+  "understanding": {
+    "papers": 42
+  },
+  "university": {
+    "papers": 51
+  },
+  "value": {
+    "papers": 44
+  },
+  "view": {
+    "papers": 48
+  },
+  "washed": {
+    "papers": 45
+  },
+  "western": {
+    "papers": 53
+  },
+  "wide": {
+    "papers": 56
+  },
+  "www": {
+    "papers": 45
+  },
+  "yang": {
+    "papers": 53
+  },
+  "yellow": {
+    "papers": 49
+  }
+}

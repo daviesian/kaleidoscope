@@ -1,509 +1,2585 @@
 {
-  "acad": {
+  "aaa": {
+    "papers": 3
+  },
+  "abl": {
+    "papers": 2
+  },
+  "abundance": {
+    "papers": 3
+  },
+  "accumulation": {
+    "papers": 2
+  },
+  "acetyl": {
+    "papers": 2
+  },
+  "acetylation": {
     "papers": 2
   },
   "acid": {
-    "papers": 3
-  },
-  "activation": {
-    "papers": 2
-  },
-  "activity": {
     "papers": 5
   },
-  "agent": {
+  "acids": {
     "papers": 2
   },
-  "agents": {
+  "acta": {
+    "papers": 3
+  },
+  "actin": {
+    "papers": 4
+  },
+  "activation": {
+    "papers": 8
+  },
+  "active": {
+    "papers": 3
+  },
+  "activity": {
+    "papers": 13
+  },
+  "adaptor": {
+    "papers": 3
+  },
+  "adult": {
+    "papers": 4
+  },
+  "age": {
     "papers": 2
   },
-  "agonist": {
+  "ago1": {
     "papers": 2
   },
-  "albumin": {
+  "aguilera": {
     "papers": 2
   },
-  "aldehyde": {
+  "akt": {
     "papers": 2
   },
-  "angew": {
+  "allele": {
+    "papers": 4
+  },
+  "alleles": {
+    "papers": 2
+  },
+  "alu": {
+    "papers": 2
+  },
+  "amino": {
+    "papers": 3
+  },
+  "ampk": {
+    "papers": 3
+  },
+  "analyses": {
+    "papers": 3
+  },
+  "analysis": {
+    "papers": 14
+  },
+  "analyzed": {
+    "papers": 3
+  },
+  "animals": {
+    "papers": 2
+  },
+  "anterior": {
     "papers": 3
   },
   "anti": {
-    "papers": 2
+    "papers": 9
   },
   "antibodies": {
-    "papers": 2
+    "papers": 5
   },
   "antibody": {
+    "papers": 4
+  },
+  "apical": {
+    "papers": 4
+  },
+  "apkc": {
+    "papers": 2
+  },
+  "apo": {
+    "papers": 2
+  },
+  "apoptosis": {
     "papers": 3
   },
-  "antigen": {
+  "article": {
     "papers": 2
   },
   "assay": {
-    "papers": 4
+    "papers": 2
+  },
+  "assays": {
+    "papers": 2
   },
   "assembly": {
+    "papers": 5
+  },
+  "associated": {
+    "papers": 5
+  },
+  "association": {
+    "papers": 3
+  },
+  "atg16l1": {
+    "papers": 2
+  },
+  "atp": {
+    "papers": 5
+  },
+  "atpase": {
     "papers": 4
+  },
+  "autophagosome": {
+    "papers": 2
+  },
+  "autophagy": {
+    "papers": 2
+  },
+  "available": {
+    "papers": 2
+  },
+  "average": {
+    "papers": 4
+  },
+  "axis": {
+    "papers": 4
+  },
+  "axon": {
+    "papers": 3
+  },
+  "axonal": {
+    "papers": 2
+  },
+  "axons": {
+    "papers": 3
+  },
+  "azvolinsky": {
+    "papers": 2
+  },
+  "bacillus": {
+    "papers": 2
+  },
+  "balance": {
+    "papers": 2
+  },
+  "bar": {
+    "papers": 5
+  },
+  "bars": {
+    "papers": 4
+  },
+  "basal": {
+    "papers": 4
+  },
+  "base": {
+    "papers": 2
   },
   "based": {
     "papers": 2
   },
-  "bertozzi": {
+  "behavior": {
+    "papers": 4
+  },
+  "behavioral": {
+    "papers": 2
+  },
+  "bermejo": {
+    "papers": 2
+  },
+  "bet": {
+    "papers": 2
+  },
+  "bias": {
+    "papers": 2
+  },
+  "bid": {
+    "papers": 3
+  },
+  "bignell": {
+    "papers": 2
+  },
+  "bilayer": {
     "papers": 2
   },
   "binding": {
-    "papers": 3
-  },
-  "bioconjugate": {
-    "papers": 2
+    "papers": 21
   },
   "biol": {
+    "papers": 27
+  },
+  "biological": {
+    "papers": 2
+  },
+  "biosynthetic": {
+    "papers": 2
+  },
+  "blood": {
+    "papers": 2
+  },
+  "blot": {
+    "papers": 4
+  },
+  "blue": {
+    "papers": 6
+  },
+  "body": {
+    "papers": 4
+  },
+  "bone": {
     "papers": 3
   },
-  "biophys": {
+  "bound": {
+    "papers": 7
+  },
+  "box": {
     "papers": 2
   },
-  "biotin": {
-    "papers": 2
+  "brain": {
+    "papers": 5
   },
-  "botulinum": {
+  "brdu": {
     "papers": 2
   },
   "breast": {
     "papers": 2
   },
-  "cancer": {
-    "papers": 7
+  "brennecke": {
+    "papers": 2
   },
-  "carried": {
+  "brockdorff": {
+    "papers": 2
+  },
+  "bromodomain": {
+    "papers": 2
+  },
+  "buffer": {
+    "papers": 6
+  },
+  "burgess": {
+    "papers": 2
+  },
+  "cacchiarelli": {
+    "papers": 2
+  },
+  "caenorhabditis": {
+    "papers": 3
+  },
+  "cairns": {
+    "papers": 2
+  },
+  "calculated": {
+    "papers": 2
+  },
+  "cancer": {
+    "papers": 10
+  },
+  "cancers": {
+    "papers": 3
+  },
+  "canonical": {
+    "papers": 2
+  },
+  "cap": {
+    "papers": 2
+  },
+  "cargo": {
+    "papers": 2
+  },
+  "catalysis": {
+    "papers": 2
+  },
+  "catalytic": {
+    "papers": 6
+  },
+  "cbx7": {
     "papers": 2
   },
   "cell": {
-    "papers": 6
+    "papers": 32
   },
   "cells": {
-    "papers": 10
+    "papers": 28
+  },
+  "cen": {
+    "papers": 2
+  },
+  "centromere": {
+    "papers": 3
+  },
+  "centromeres": {
+    "papers": 2
+  },
+  "centromeric": {
+    "papers": 2
+  },
+  "cerevisiae": {
+    "papers": 9
+  },
+  "chain": {
+    "papers": 5
+  },
+  "chains": {
+    "papers": 3
+  },
+  "chambers": {
+    "papers": 2
+  },
+  "change": {
+    "papers": 2
+  },
+  "changes": {
+    "papers": 2
+  },
+  "chaperone": {
+    "papers": 3
+  },
+  "chaperones": {
+    "papers": 2
+  },
+  "checkpoint": {
+    "papers": 2
   },
   "chem": {
-    "papers": 11
-  },
-  "chemical": {
     "papers": 4
   },
-  "chemistry": {
+  "chip": {
+    "papers": 10
+  },
+  "cholesterol": {
+    "papers": 2
+  },
+  "chromatin": {
+    "papers": 11
+  },
+  "chromosomal": {
+    "papers": 4
+  },
+  "chromosome": {
+    "papers": 10
+  },
+  "chromosomes": {
+    "papers": 5
+  },
+  "circuit": {
+    "papers": 2
+  },
+  "cis": {
     "papers": 3
   },
-  "click": {
+  "class": {
+    "papers": 4
+  },
+  "classes": {
+    "papers": 4
+  },
+  "clathrin": {
+    "papers": 5
+  },
+  "cleavage": {
     "papers": 3
   },
-  "commun": {
+  "clonal": {
+    "papers": 2
+  },
+  "cluster": {
+    "papers": 4
+  },
+  "clusters": {
+    "papers": 5
+  },
+  "coated": {
+    "papers": 2
+  },
+  "coding": {
+    "papers": 2
+  },
+  "codon": {
+    "papers": 2
+  },
+  "coil": {
+    "papers": 2
+  },
+  "coiled": {
+    "papers": 2
+  },
+  "coli": {
+    "papers": 6
+  },
+  "colocalization": {
+    "papers": 2
+  },
+  "commitment": {
+    "papers": 2
+  },
+  "compared": {
+    "papers": 3
+  },
+  "compartment": {
     "papers": 2
   },
   "complex": {
-    "papers": 2
+    "papers": 14
   },
   "complexes": {
+    "papers": 7
+  },
+  "components": {
     "papers": 2
   },
-  "compound": {
+  "composition": {
+    "papers": 2
+  },
+  "concentration": {
+    "papers": 4
+  },
+  "conditions": {
+    "papers": 4
+  },
+  "confocal": {
+    "papers": 4
+  },
+  "conformation": {
+    "papers": 5
+  },
+  "conformational": {
     "papers": 3
   },
-  "conjugate": {
+  "conformations": {
+    "papers": 2
+  },
+  "conservation": {
     "papers": 3
   },
-  "conjugates": {
+  "conserved": {
+    "papers": 4
+  },
+  "constructs": {
     "papers": 6
   },
-  "conjugation": {
+  "contacts": {
     "papers": 3
   },
   "containing": {
-    "papers": 2
+    "papers": 4
   },
-  "contrast": {
+  "control": {
+    "papers": 14
+  },
+  "controls": {
     "papers": 3
   },
-  "copper": {
+  "copy": {
+    "papers": 4
+  },
+  "corrected": {
     "papers": 2
   },
-  "cox": {
+  "correction": {
     "papers": 2
   },
-  "cross": {
+  "corresponding": {
+    "papers": 2
+  },
+  "cortex": {
+    "papers": 2
+  },
+  "cos7": {
+    "papers": 2
+  },
+  "cryo": {
+    "papers": 5
+  },
+  "crystal": {
+    "papers": 4
+  },
+  "crystallogr": {
+    "papers": 7
+  },
+  "cue": {
+    "papers": 2
+  },
+  "culture": {
     "papers": 3
   },
-  "cyclic": {
+  "cultured": {
     "papers": 3
   },
-  "cysteine": {
+  "curr": {
+    "papers": 3
+  },
+  "curvature": {
     "papers": 2
+  },
+  "cycle": {
+    "papers": 5
+  },
+  "cyclin": {
+    "papers": 2
+  },
+  "cytoplasmic": {
+    "papers": 4
+  },
+  "cytosol": {
+    "papers": 3
+  },
+  "cytosolic": {
+    "papers": 2
+  },
+  "da1": {
+    "papers": 2
+  },
+  "damage": {
+    "papers": 4
   },
   "data": {
+    "papers": 18
+  },
+  "day": {
     "papers": 2
   },
-  "davletov": {
+  "days": {
     "papers": 2
   },
-  "department": {
+  "death": {
+    "papers": 2
+  },
+  "degradation": {
     "papers": 4
   },
-  "derivatives": {
+  "density": {
+    "papers": 6
+  },
+  "dependent": {
+    "papers": 8
+  },
+  "depletion": {
+    "papers": 2
+  },
+  "derived": {
     "papers": 3
   },
-  "disulfide": {
+  "described": {
+    "papers": 3
+  },
+  "detected": {
+    "papers": 5
+  },
+  "dev": {
+    "papers": 4
+  },
+  "development": {
+    "papers": 9
+  },
+  "diet": {
     "papers": 2
   },
-  "dna": {
+  "differences": {
+    "papers": 3
+  },
+  "differential": {
+    "papers": 3
+  },
+  "differentiated": {
+    "papers": 2
+  },
+  "differentiation": {
+    "papers": 7
+  },
+  "dimer": {
     "papers": 4
+  },
+  "directed": {
+    "papers": 2
+  },
+  "disaggregation": {
+    "papers": 2
+  },
+  "disease": {
+    "papers": 5
+  },
+  "diseases": {
+    "papers": 2
+  },
+  "distance": {
+    "papers": 3
+  },
+  "distribution": {
+    "papers": 4
+  },
+  "diub": {
+    "papers": 2
+  },
+  "dmso": {
+    "papers": 3
+  },
+  "dna": {
+    "papers": 17
+  },
+  "domain": {
+    "papers": 19
+  },
+  "domains": {
+    "papers": 10
+  },
+  "dorsal": {
+    "papers": 2
   },
   "double": {
     "papers": 2
   },
-  "effect": {
-    "papers": 2
+  "drosophila": {
+    "papers": 12
   },
-  "emission": {
+  "dub": {
     "papers": 3
   },
-  "eur": {
+  "dubs": {
     "papers": 2
+  },
+  "dynamic": {
+    "papers": 2
+  },
+  "dynamics": {
+    "papers": 4
+  },
+  "dynamin": {
+    "papers": 2
+  },
+  "dynein": {
+    "papers": 2
+  },
+  "eed": {
+    "papers": 2
+  },
+  "effect": {
+    "papers": 5
+  },
+  "effects": {
+    "papers": 5
+  },
+  "efficiency": {
+    "papers": 2
+  },
+  "elderkin": {
+    "papers": 2
+  },
+  "electron": {
+    "papers": 7
+  },
+  "elegans": {
+    "papers": 4
+  },
+  "ell": {
+    "papers": 3
+  },
+  "elongation": {
+    "papers": 3
+  },
+  "elsevier": {
+    "papers": 3
+  },
+  "embryo": {
+    "papers": 5
+  },
+  "embryonic": {
+    "papers": 9
+  },
+  "embryos": {
+    "papers": 8
+  },
+  "encoded": {
+    "papers": 2
+  },
+  "endocytic": {
+    "papers": 4
+  },
+  "endocytosis": {
+    "papers": 4
+  },
+  "endogenous": {
+    "papers": 3
+  },
+  "endoplasmic": {
+    "papers": 3
+  },
+  "endosomes": {
+    "papers": 2
+  },
+  "endothelial": {
+    "papers": 2
+  },
+  "energy": {
+    "papers": 4
+  },
+  "enzyme": {
+    "papers": 4
+  },
+  "enzymes": {
+    "papers": 3
+  },
+  "epiblast": {
+    "papers": 2
+  },
+  "epigenetic": {
+    "papers": 3
+  },
+  "episcs": {
+    "papers": 2
+  },
+  "erk": {
+    "papers": 3
+  },
+  "erratum": {
+    "papers": 2
+  },
+  "error": {
+    "papers": 2
+  },
+  "esc": {
+    "papers": 2
+  },
+  "escherichia": {
+    "papers": 2
+  },
+  "escs": {
+    "papers": 3
+  },
+  "eukaryotic": {
+    "papers": 2
+  },
+  "evans": {
+    "papers": 2
+  },
+  "events": {
+    "papers": 3
+  },
+  "evolution": {
+    "papers": 4
+  },
+  "evolutionary": {
+    "papers": 3
+  },
+  "excerpta": {
+    "papers": 3
+  },
+  "exit": {
+    "papers": 2
+  },
+  "experiment": {
+    "papers": 2
+  },
+  "experimental": {
+    "papers": 4
   },
   "experiments": {
+    "papers": 8
+  },
+  "export": {
     "papers": 2
+  },
+  "expressed": {
+    "papers": 4
+  },
+  "expressing": {
+    "papers": 5
   },
   "expression": {
+    "papers": 18
+  },
+  "extracts": {
+    "papers": 4
+  },
+  "factor": {
+    "papers": 5
+  },
+  "factors": {
     "papers": 3
   },
-  "fibrin": {
+  "family": {
+    "papers": 5
+  },
+  "farooqi": {
     "papers": 2
   },
-  "fibronectin": {
+  "fat": {
+    "papers": 2
+  },
+  "fatty": {
+    "papers": 2
+  },
+  "female": {
+    "papers": 3
+  },
+  "fibroblasts": {
     "papers": 2
   },
   "figure": {
-    "papers": 3
+    "papers": 42
+  },
+  "figures": {
+    "papers": 23
+  },
+  "filament": {
+    "papers": 2
+  },
+  "filippakopoulos": {
+    "papers": 2
+  },
+  "fission": {
+    "papers": 4
+  },
+  "fitted": {
+    "papers": 2
+  },
+  "five": {
+    "papers": 2
+  },
+  "flag": {
+    "papers": 5
+  },
+  "flies": {
+    "papers": 2
+  },
+  "flow": {
+    "papers": 5
   },
   "fluorescence": {
     "papers": 6
   },
-  "fluorescent": {
+  "fly": {
+    "papers": 2
+  },
+  "foiani": {
+    "papers": 2
+  },
+  "fold": {
+    "papers": 6
+  },
+  "folding": {
     "papers": 3
   },
+  "following": {
+    "papers": 2
+  },
+  "food": {
+    "papers": 2
+  },
+  "ford": {
+    "papers": 2
+  },
+  "fork": {
+    "papers": 2
+  },
+  "forks": {
+    "papers": 3
+  },
+  "form": {
+    "papers": 3
+  },
+  "formation": {
+    "papers": 10
+  },
+  "found": {
+    "papers": 5
+  },
+  "fragments": {
+    "papers": 2
+  },
   "free": {
+    "papers": 3
+  },
+  "function": {
+    "papers": 5
+  },
+  "functional": {
+    "papers": 2
+  },
+  "fusion": {
+    "papers": 10
+  },
+  "fusions": {
+    "papers": 2
+  },
+  "gal": {
+    "papers": 4
+  },
+  "gal4": {
+    "papers": 4
+  },
+  "gdp": {
+    "papers": 2
+  },
+  "gel": {
+    "papers": 2
+  },
+  "gene": {
+    "papers": 23
+  },
+  "genes": {
+    "papers": 16
+  },
+  "genet": {
+    "papers": 5
+  },
+  "genetic": {
+    "papers": 5
+  },
+  "genetics": {
+    "papers": 2
+  },
+  "genome": {
+    "papers": 15
+  },
+  "genomes": {
+    "papers": 5
+  },
+  "genomic": {
+    "papers": 9
+  },
+  "genotype": {
+    "papers": 4
+  },
+  "genotypes": {
+    "papers": 2
+  },
+  "germline": {
     "papers": 2
   },
   "gfp": {
+    "papers": 15
+  },
+  "glucose": {
+    "papers": 4
+  },
+  "goldberg": {
     "papers": 2
   },
-  "glycan": {
-    "papers": 2
-  },
-  "glycans": {
+  "golgi": {
     "papers": 3
   },
-  "glycosylation": {
+  "gonz": {
     "papers": 2
   },
-  "gold": {
+  "green": {
+    "papers": 3
+  },
+  "greenman": {
+    "papers": 3
+  },
+  "gro": {
     "papers": 2
   },
-  "hippocampal": {
+  "ground": {
+    "papers": 3
+  },
+  "growth": {
+    "papers": 6
+  },
+  "gst": {
+    "papers": 6
+  },
+  "gtp": {
+    "papers": 6
+  },
+  "gtpases": {
+    "papers": 2
+  },
+  "gut": {
+    "papers": 3
+  },
+  "h2a": {
+    "papers": 2
+  },
+  "h3k27me3": {
+    "papers": 3
+  },
+  "hantschel": {
+    "papers": 2
+  },
+  "harris": {
+    "papers": 2
+  },
+  "head": {
+    "papers": 3
+  },
+  "healthy": {
+    "papers": 2
+  },
+  "hela": {
+    "papers": 4
+  },
+  "helices": {
+    "papers": 4
+  },
+  "helix": {
+    "papers": 7
+  },
+  "heterochromatin": {
+    "papers": 2
+  },
+  "heterozygous": {
+    "papers": 2
+  },
+  "hippocampus": {
+    "papers": 2
+  },
+  "histone": {
+    "papers": 8
+  },
+  "histones": {
+    "papers": 2
+  },
+  "hits": {
+    "papers": 2
+  },
+  "hler": {
+    "papers": 2
+  },
+  "hnf4a": {
+    "papers": 2
+  },
+  "holt": {
+    "papers": 2
+  },
+  "host": {
+    "papers": 3
+  },
+  "hpf": {
+    "papers": 2
+  },
+  "hplc": {
+    "papers": 2
+  },
+  "hsp70": {
+    "papers": 2
+  },
+  "http": {
     "papers": 2
   },
   "human": {
-    "papers": 6
+    "papers": 16
   },
-  "igg": {
+  "humans": {
     "papers": 2
   },
-  "image": {
+  "hybrid": {
+    "papers": 5
+  },
+  "hydrophobic": {
+    "papers": 2
+  },
+  "hypermutation": {
+    "papers": 2
+  },
+  "hypothalamic": {
+    "papers": 2
+  },
+  "hypothalamus": {
+    "papers": 2
+  },
+  "identified": {
+    "papers": 5
+  },
+  "illumina": {
     "papers": 2
   },
   "images": {
     "papers": 2
   },
   "imaging": {
-    "papers": 9
+    "papers": 4
   },
-  "immunized": {
+  "immune": {
+    "papers": 2
+  },
+  "immunofluorescence": {
     "papers": 2
   },
   "immunol": {
+    "papers": 3
+  },
+  "immunoprecipitated": {
     "papers": 2
   },
-  "information": {
+  "immunostaining": {
+    "papers": 2
+  },
+  "inactive": {
+    "papers": 2
+  },
+  "inadvertently": {
     "papers": 3
+  },
+  "inc": {
+    "papers": 2
+  },
+  "incorporation": {
+    "papers": 2
+  },
+  "incubated": {
+    "papers": 2
+  },
+  "independent": {
+    "papers": 4
+  },
+  "indicate": {
+    "papers": 2
+  },
+  "indicated": {
+    "papers": 9
+  },
+  "induced": {
+    "papers": 6
+  },
+  "infected": {
+    "papers": 2
+  },
+  "infection": {
+    "papers": 2
+  },
+  "inhibit": {
+    "papers": 2
   },
   "inhibition": {
     "papers": 2
   },
-  "int": {
+  "initiation": {
     "papers": 4
   },
-  "label": {
+  "insertion": {
+    "papers": 5
+  },
+  "insertions": {
+    "papers": 4
+  },
+  "instability": {
+    "papers": 2
+  },
+  "insulin": {
+    "papers": 4
+  },
+  "intake": {
+    "papers": 2
+  },
+  "intensities": {
+    "papers": 2
+  },
+  "interact": {
+    "papers": 2
+  },
+  "interaction": {
+    "papers": 11
+  },
+  "interactions": {
+    "papers": 5
+  },
+  "interface": {
+    "papers": 6
+  },
+  "interferon": {
+    "papers": 2
+  },
+  "intervals": {
+    "papers": 3
+  },
+  "isolated": {
+    "papers": 3
+  },
+  "johnston": {
+    "papers": 2
+  },
+  "jones": {
+    "papers": 2
+  },
+  "kelly": {
+    "papers": 2
+  },
+  "kinase": {
+    "papers": 8
+  },
+  "kinetochore": {
+    "papers": 2
+  },
+  "kinetochores": {
+    "papers": 2
+  },
+  "klf4": {
+    "papers": 2
+  },
+  "knockdown": {
+    "papers": 3
+  },
+  "komander": {
+    "papers": 2
+  },
+  "kon": {
     "papers": 2
   },
   "labeled": {
     "papers": 5
   },
   "labeling": {
-    "papers": 4
+    "papers": 2
+  },
+  "lapse": {
+    "papers": 2
+  },
+  "larvae": {
+    "papers": 2
+  },
+  "larval": {
+    "papers": 2
+  },
+  "late": {
+    "papers": 3
+  },
+  "lateral": {
+    "papers": 2
   },
   "lee": {
     "papers": 3
   },
-  "ligand": {
+  "left": {
+    "papers": 2
+  },
+  "length": {
+    "papers": 2
+  },
+  "levels": {
+    "papers": 6
+  },
+  "lez": {
+    "papers": 2
+  },
+  "lhns": {
     "papers": 2
   },
   "ligands": {
     "papers": 2
   },
-  "ligation": {
+  "line": {
+    "papers": 3
+  },
+  "lineage": {
+    "papers": 4
+  },
+  "lineages": {
+    "papers": 2
+  },
+  "lines": {
+    "papers": 7
+  },
+  "linkage": {
+    "papers": 2
+  },
+  "linked": {
     "papers": 2
   },
   "linker": {
+    "papers": 2
+  },
+  "lipid": {
+    "papers": 6
+  },
+  "liposomes": {
     "papers": 3
   },
   "live": {
     "papers": 2
   },
-  "magnetic": {
+  "liver": {
+    "papers": 3
+  },
+  "loaded": {
     "papers": 2
   },
-  "med": {
-    "papers": 5
-  },
-  "method": {
+  "local": {
     "papers": 2
   },
-  "methods": {
+  "localization": {
+    "papers": 6
+  },
+  "loci": {
+    "papers": 2
+  },
+  "loop": {
+    "papers": 2
+  },
+  "losick": {
+    "papers": 2
+  },
+  "loss": {
+    "papers": 2
+  },
+  "low": {
+    "papers": 2
+  },
+  "luciferase": {
+    "papers": 3
+  },
+  "lumen": {
+    "papers": 2
+  },
+  "lung": {
+    "papers": 2
+  },
+  "lysates": {
+    "papers": 3
+  },
+  "male": {
+    "papers": 3
+  },
+  "mammalian": {
+    "papers": 2
+  },
+  "mammals": {
+    "papers": 2
+  },
+  "map": {
+    "papers": 2
+  },
+  "maps": {
+    "papers": 4
+  },
+  "marked": {
+    "papers": 2
+  },
+  "mass": {
+    "papers": 3
+  },
+  "mbp": {
+    "papers": 2
+  },
+  "mcmahon": {
+    "papers": 2
+  },
+  "mean": {
+    "papers": 7
+  },
+  "measured": {
+    "papers": 2
+  },
+  "mechanism": {
+    "papers": 6
+  },
+  "mediated": {
+    "papers": 3
+  },
+  "medica": {
+    "papers": 3
+  },
+  "mefs": {
+    "papers": 3
+  },
+  "mek": {
+    "papers": 2
+  },
+  "melanogaster": {
+    "papers": 2
+  },
+  "membrane": {
+    "papers": 16
+  },
+  "membranes": {
+    "papers": 4
+  },
+  "mesc": {
+    "papers": 2
+  },
+  "mescs": {
+    "papers": 2
+  },
+  "metabolic": {
+    "papers": 4
+  },
+  "metformin": {
     "papers": 2
   },
   "mice": {
+    "papers": 13
+  },
+  "microbiol": {
+    "papers": 4
+  },
+  "microrna": {
+    "papers": 2
+  },
+  "microscopy": {
+    "papers": 3
+  },
+  "microsomes": {
+    "papers": 3
+  },
+  "microtubule": {
+    "papers": 3
+  },
+  "migration": {
+    "papers": 3
+  },
+  "miguel": {
     "papers": 2
   },
   "min": {
-    "papers": 2
+    "papers": 11
   },
-  "modification": {
-    "papers": 2
-  },
-  "modified": {
+  "mir": {
     "papers": 3
+  },
+  "mirna": {
+    "papers": 3
+  },
+  "mirnas": {
+    "papers": 2
+  },
+  "mitochondria": {
+    "papers": 5
+  },
+  "mitochondrial": {
+    "papers": 5
+  },
+  "model": {
+    "papers": 10
   },
   "mol": {
-    "papers": 2
+    "papers": 14
   },
   "molecular": {
+    "papers": 3
+  },
+  "molecule": {
     "papers": 4
   },
-  "mri": {
-    "papers": 3
-  },
-  "nano": {
+  "molecules": {
     "papers": 2
   },
-  "nanoparticle": {
+  "monocytes": {
     "papers": 2
   },
-  "nanoparticles": {
-    "papers": 3
-  },
-  "nat": {
-    "papers": 3
-  },
-  "natl": {
+  "monomer": {
     "papers": 2
+  },
+  "motif": {
+    "papers": 5
+  },
+  "motifs": {
+    "papers": 3
+  },
+  "motility": {
+    "papers": 2
+  },
+  "motor": {
+    "papers": 2
+  },
+  "mouse": {
+    "papers": 14
+  },
+  "movement": {
+    "papers": 3
+  },
+  "movements": {
+    "papers": 3
+  },
+  "movie": {
+    "papers": 7
+  },
+  "movies": {
+    "papers": 4
+  },
+  "mrna": {
+    "papers": 9
+  },
+  "mrnas": {
+    "papers": 4
+  },
+  "murine": {
+    "papers": 3
+  },
+  "muscle": {
+    "papers": 4
+  },
+  "muscular": {
+    "papers": 2
+  },
+  "mutant": {
+    "papers": 8
+  },
+  "mutation": {
+    "papers": 5
+  },
+  "mutational": {
+    "papers": 2
+  },
+  "mutations": {
+    "papers": 6
+  },
+  "myc": {
+    "papers": 5
+  },
+  "nanog": {
+    "papers": 4
+  },
+  "native": {
+    "papers": 2
+  },
+  "nature": {
+    "papers": 7
+  },
+  "neil": {
+    "papers": 2
+  },
+  "network": {
+    "papers": 3
+  },
+  "neural": {
+    "papers": 3
+  },
+  "neuroblasts": {
+    "papers": 2
+  },
+  "neuron": {
+    "papers": 4
+  },
+  "neuronal": {
+    "papers": 4
   },
   "neurons": {
-    "papers": 2
+    "papers": 5
   },
-  "neurotoxin": {
-    "papers": 2
-  },
-  "nucl": {
+  "neurosci": {
     "papers": 3
+  },
+  "nichols": {
+    "papers": 4
+  },
+  "nitrogen": {
+    "papers": 2
+  },
+  "noncanonical": {
+    "papers": 2
+  },
+  "noncoding": {
+    "papers": 2
+  },
+  "normal": {
+    "papers": 2
+  },
+  "normalized": {
+    "papers": 2
+  },
+  "novel": {
+    "papers": 2
+  },
+  "nr4a1": {
+    "papers": 2
+  },
+  "nuclear": {
+    "papers": 9
+  },
+  "nuclei": {
+    "papers": 2
   },
   "nucleic": {
     "papers": 2
   },
-  "oligonucleotide": {
+  "nucleosome": {
     "papers": 2
   },
-  "oligonucleotides": {
+  "nucleotide": {
     "papers": 4
   },
-  "optical": {
+  "nucleus": {
+    "papers": 4
+  },
+  "nutritional": {
+    "papers": 2
+  },
+  "obesity": {
+    "papers": 2
+  },
+  "observed": {
+    "papers": 4
+  },
+  "obtained": {
+    "papers": 4
+  },
+  "occupancy": {
     "papers": 3
   },
-  "org": {
+  "oct4": {
+    "papers": 4
+  },
+  "odor": {
     "papers": 2
+  },
+  "ohkura": {
+    "papers": 2
+  },
+  "olfactory": {
+    "papers": 2
+  },
+  "oligomers": {
+    "papers": 2
+  },
+  "online": {
+    "papers": 2
+  },
+  "opossum": {
+    "papers": 2
+  },
+  "org": {
+    "papers": 3
+  },
+  "organization": {
+    "papers": 3
+  },
+  "otub1": {
+    "papers": 2
+  },
+  "overexpression": {
+    "papers": 2
+  },
+  "owen": {
+    "papers": 3
+  },
+  "p53": {
+    "papers": 3
   },
   "page": {
     "papers": 2
   },
-  "peg": {
+  "pair": {
+    "papers": 2
+  },
+  "pairs": {
+    "papers": 2
+  },
+  "pancreatic": {
+    "papers": 2
+  },
+  "panel": {
+    "papers": 2
+  },
+  "panels": {
+    "papers": 2
+  },
+  "parasitol": {
+    "papers": 2
+  },
+  "parental": {
+    "papers": 2
+  },
+  "pathway": {
+    "papers": 6
+  },
+  "pathways": {
+    "papers": 2
+  },
+  "patients": {
+    "papers": 3
+  },
+  "patterns": {
+    "papers": 3
+  },
+  "pbs": {
+    "papers": 3
+  },
+  "pcg": {
+    "papers": 2
+  },
+  "pcr": {
+    "papers": 5
+  },
+  "pdz": {
+    "papers": 2
+  },
+  "peak": {
+    "papers": 2
+  },
+  "peaks": {
     "papers": 2
   },
   "peptide": {
+    "papers": 9
+  },
+  "peptides": {
     "papers": 4
   },
-  "pet": {
+  "performed": {
+    "papers": 8
+  },
+  "peterson": {
     "papers": 2
   },
-  "poly": {
+  "phase": {
+    "papers": 5
+  },
+  "phenotypes": {
     "papers": 2
   },
-  "preparation": {
+  "pheromone": {
+    "papers": 2
+  },
+  "phosphatase": {
+    "papers": 2
+  },
+  "phospho": {
+    "papers": 2
+  },
+  "phosphorylated": {
+    "papers": 3
+  },
+  "phosphorylation": {
+    "papers": 7
+  },
+  "phylogenetic": {
+    "papers": 2
+  },
+  "pi3k": {
+    "papers": 3
+  },
+  "pirna": {
+    "papers": 3
+  },
+  "pirnas": {
+    "papers": 2
+  },
+  "plasma": {
+    "papers": 4
+  },
+  "plasticity": {
+    "papers": 2
+  },
+  "pleasance": {
+    "papers": 2
+  },
+  "pluripotency": {
+    "papers": 6
+  },
+  "pluripotent": {
+    "papers": 5
+  },
+  "plus": {
+    "papers": 2
+  },
+  "pol": {
+    "papers": 3
+  },
+  "polarity": {
+    "papers": 2
+  },
+  "polarization": {
+    "papers": 2
+  },
+  "polycomb": {
+    "papers": 3
+  },
+  "polymerase": {
+    "papers": 5
+  },
+  "polyub": {
+    "papers": 2
+  },
+  "pore": {
+    "papers": 2
+  },
+  "position": {
+    "papers": 6
+  },
+  "positions": {
+    "papers": 3
+  },
+  "positive": {
+    "papers": 4
+  },
+  "possibility": {
+    "papers": 2
+  },
+  "posterior": {
+    "papers": 2
+  },
+  "prc1": {
+    "papers": 2
+  },
+  "prc2": {
+    "papers": 2
+  },
+  "pre": {
+    "papers": 3
+  },
+  "predicted": {
+    "papers": 2
+  },
+  "presence": {
+    "papers": 2
+  },
+  "primary": {
+    "papers": 3
+  },
+  "primers": {
     "papers": 2
   },
   "probe": {
-    "papers": 3
-  },
-  "probes": {
-    "papers": 4
-  },
-  "proc": {
     "papers": 2
   },
   "procedures": {
-    "papers": 2
-  },
-  "protein": {
-    "papers": 5
-  },
-  "proteins": {
     "papers": 4
   },
-  "purified": {
+  "processing": {
     "papers": 2
   },
-  "reaction": {
+  "profiles": {
+    "papers": 4
+  },
+  "profiling": {
+    "papers": 2
+  },
+  "progression": {
+    "papers": 3
+  },
+  "project": {
+    "papers": 2
+  },
+  "promoter": {
+    "papers": 3
+  },
+  "properties": {
+    "papers": 2
+  },
+  "protease": {
+    "papers": 2
+  },
+  "proteases": {
+    "papers": 2
+  },
+  "proteasomal": {
+    "papers": 2
+  },
+  "proteasome": {
+    "papers": 3
+  },
+  "protein": {
+    "papers": 25
+  },
+  "proteins": {
+    "papers": 20
+  },
+  "proteolysis": {
+    "papers": 2
+  },
+  "proteome": {
+    "papers": 2
+  },
+  "proteomics": {
+    "papers": 2
+  },
+  "prox": {
+    "papers": 2
+  },
+  "pull": {
+    "papers": 2
+  },
+  "pulse": {
+    "papers": 2
+  },
+  "purified": {
     "papers": 5
   },
-  "reactive": {
+  "qpcr": {
+    "papers": 2
+  },
+  "quantified": {
+    "papers": 2
+  },
+  "quiescence": {
+    "papers": 2
+  },
+  "quiescent": {
+    "papers": 2
+  },
+  "raf": {
+    "papers": 2
+  },
+  "ras": {
+    "papers": 4
+  },
+  "rat": {
+    "papers": 3
+  },
+  "rate": {
+    "papers": 5
+  },
+  "rates": {
+    "papers": 2
+  },
+  "rats": {
+    "papers": 2
+  },
+  "read": {
+    "papers": 2
+  },
+  "reads": {
+    "papers": 7
+  },
+  "rearrangement": {
+    "papers": 2
+  },
+  "rearrangements": {
     "papers": 2
   },
   "receptor": {
-    "papers": 2
+    "papers": 5
   },
   "receptors": {
     "papers": 2
   },
-  "reducing": {
+  "reck": {
     "papers": 2
   },
-  "res": {
+  "recognition": {
     "papers": 3
   },
-  "resolution": {
+  "recombinant": {
+    "papers": 3
+  },
+  "reconstruction": {
+    "papers": 3
+  },
+  "recruitment": {
+    "papers": 3
+  },
+  "red": {
+    "papers": 5
+  },
+  "redistributed": {
+    "papers": 3
+  },
+  "reduced": {
+    "papers": 3
+  },
+  "reference": {
+    "papers": 3
+  },
+  "region": {
+    "papers": 4
+  },
+  "regions": {
+    "papers": 7
+  },
+  "regulated": {
     "papers": 2
   },
-  "resonance": {
+  "regulates": {
     "papers": 2
+  },
+  "regulation": {
+    "papers": 8
+  },
+  "regulatory": {
+    "papers": 2
+  },
+  "related": {
+    "papers": 3
+  },
+  "remodeling": {
+    "papers": 4
+  },
+  "renewal": {
+    "papers": 2
+  },
+  "repair": {
+    "papers": 2
+  },
+  "repeats": {
+    "papers": 3
+  },
+  "replication": {
+    "papers": 7
+  },
+  "represent": {
+    "papers": 3
+  },
+  "representative": {
+    "papers": 3
+  },
+  "reprogramming": {
+    "papers": 2
+  },
+  "required": {
+    "papers": 3
+  },
+  "res": {
+    "papers": 4
+  },
+  "residue": {
+    "papers": 2
+  },
+  "residues": {
+    "papers": 12
+  },
+  "resistance": {
+    "papers": 2
+  },
+  "resolution": {
+    "papers": 3
+  },
+  "respectively": {
+    "papers": 2
+  },
+  "response": {
+    "papers": 8
   },
   "responses": {
     "papers": 2
   },
-  "ruoslahti": {
+  "restriction": {
     "papers": 2
+  },
+  "reticulum": {
+    "papers": 3
+  },
+  "retinal": {
+    "papers": 2
+  },
+  "retrotranslocation": {
+    "papers": 2
+  },
+  "retrotransposon": {
+    "papers": 2
+  },
+  "reused": {
+    "papers": 2
+  },
+  "rfp": {
+    "papers": 2
+  },
+  "rho": {
+    "papers": 2
+  },
+  "ribosomal": {
+    "papers": 2
+  },
+  "ribosome": {
+    "papers": 4
+  },
+  "ribosomes": {
+    "papers": 2
+  },
+  "ridley": {
+    "papers": 2
+  },
+  "ring": {
+    "papers": 6
+  },
+  "ring1a": {
+    "papers": 2
+  },
+  "ring1b": {
+    "papers": 2
+  },
+  "rna": {
+    "papers": 21
+  },
+  "rnai": {
+    "papers": 8
+  },
+  "rnapii": {
+    "papers": 3
+  },
+  "rnas": {
+    "papers": 5
+  },
+  "rnase": {
+    "papers": 2
+  },
+  "role": {
+    "papers": 3
+  },
+  "ros": {
+    "papers": 2
+  },
+  "rsd": {
+    "papers": 2
+  },
+  "rybp": {
+    "papers": 2
+  },
+  "saccharomyces": {
+    "papers": 4
+  },
+  "sample": {
+    "papers": 4
+  },
+  "samples": {
+    "papers": 6
+  },
+  "sanger": {
+    "papers": 2
+  },
+  "scale": {
+    "papers": 2
+  },
+  "schmid": {
+    "papers": 2
+  },
+  "schmidt": {
+    "papers": 4
   },
   "sci": {
-    "papers": 2
+    "papers": 4
   },
   "science": {
+    "papers": 4
+  },
+  "scorrano": {
     "papers": 2
   },
   "sds": {
     "papers": 2
   },
+  "secretion": {
+    "papers": 3
+  },
+  "secretory": {
+    "papers": 2
+  },
+  "segregation": {
+    "papers": 2
+  },
+  "selection": {
+    "papers": 3
+  },
+  "self": {
+    "papers": 2
+  },
+  "sem": {
+    "papers": 7
+  },
+  "seq": {
+    "papers": 11
+  },
+  "sequence": {
+    "papers": 7
+  },
+  "sequenced": {
+    "papers": 2
+  },
+  "sequences": {
+    "papers": 3
+  },
+  "sequencing": {
+    "papers": 8
+  },
   "serum": {
+    "papers": 3
+  },
+  "set": {
+    "papers": 4
+  },
+  "sh2": {
+    "papers": 2
+  },
+  "shared": {
+    "papers": 3
+  },
+  "shirahige": {
+    "papers": 2
+  },
+  "shown": {
+    "papers": 12
+  },
+  "signal": {
+    "papers": 2
+  },
+  "signaling": {
+    "papers": 13
+  },
+  "silencing": {
+    "papers": 4
+  },
+  "silva": {
+    "papers": 2
+  },
+  "single": {
+    "papers": 8
+  },
+  "siomi": {
+    "papers": 2
+  },
+  "sirna": {
+    "papers": 6
+  },
+  "sister": {
     "papers": 2
   },
   "site": {
-    "papers": 4
+    "papers": 11
   },
   "sites": {
-    "papers": 2
+    "papers": 6
   },
-  "slides": {
-    "papers": 2
-  },
-  "smith": {
-    "papers": 2
-  },
-  "soc": {
+  "size": {
     "papers": 3
   },
-  "solution": {
+  "smith": {
+    "papers": 4
+  },
+  "snare": {
     "papers": 2
   },
-  "specific": {
+  "snares": {
+    "papers": 2
+  },
+  "snvs": {
+    "papers": 2
+  },
+  "somatic": {
+    "papers": 7
+  },
+  "sorting": {
+    "papers": 2
+  },
+  "sox2": {
+    "papers": 3
+  },
+  "species": {
     "papers": 4
+  },
+  "specific": {
+    "papers": 9
+  },
+  "specificity": {
+    "papers": 2
+  },
+  "spot": {
+    "papers": 2
+  },
+  "stability": {
+    "papers": 2
   },
   "stable": {
     "papers": 2
   },
-  "stapling": {
+  "stage": {
     "papers": 2
   },
-  "strategy": {
+  "stained": {
     "papers": 2
   },
-  "supporting": {
+  "stalk": {
     "papers": 2
+  },
+  "starvation": {
+    "papers": 2
+  },
+  "stem": {
+    "papers": 8
+  },
+  "stephens": {
+    "papers": 2
+  },
+  "stimulated": {
+    "papers": 4
+  },
+  "stimulation": {
+    "papers": 4
+  },
+  "strains": {
+    "papers": 3
+  },
+  "stress": {
+    "papers": 4
+  },
+  "struct": {
+    "papers": 6
+  },
+  "structural": {
+    "papers": 7
+  },
+  "structure": {
+    "papers": 19
+  },
+  "structures": {
+    "papers": 7
+  },
+  "subcellular": {
+    "papers": 3
+  },
+  "subject": {
+    "papers": 2
+  },
+  "subjected": {
+    "papers": 2
+  },
+  "substrate": {
+    "papers": 9
+  },
+  "substrates": {
+    "papers": 2
+  },
+  "subtilis": {
+    "papers": 2
+  },
+  "subunit": {
+    "papers": 4
+  },
+  "subunits": {
+    "papers": 4
+  },
+  "supplemental": {
+    "papers": 5
   },
   "surface": {
+    "papers": 8
+  },
+  "sutoh": {
+    "papers": 2
+  },
+  "synaptic": {
     "papers": 3
   },
   "synthesis": {
-    "papers": 6
+    "papers": 4
   },
-  "targeted": {
+  "synthesized": {
+    "papers": 2
+  },
+  "system": {
+    "papers": 2
+  },
+  "table": {
+    "papers": 20
+  },
+  "tagged": {
+    "papers": 7
+  },
+  "takahashi": {
     "papers": 3
   },
+  "target": {
+    "papers": 4
+  },
   "targeting": {
+    "papers": 3
+  },
+  "targets": {
+    "papers": 2
+  },
+  "temperature": {
+    "papers": 2
+  },
+  "temporal": {
+    "papers": 2
+  },
+  "terminal": {
+    "papers": 7
+  },
+  "termination": {
+    "papers": 2
+  },
+  "terminus": {
     "papers": 2
   },
   "test": {
     "papers": 2
   },
-  "thiol": {
-    "papers": 3
-  },
-  "tissue": {
+  "tfs": {
     "papers": 2
   },
-  "tissues": {
+  "time": {
+    "papers": 9
+  },
+  "timelapse": {
+    "papers": 2
+  },
+  "tissue": {
     "papers": 3
   },
+  "tnf": {
+    "papers": 3
+  },
+  "total": {
+    "papers": 3
+  },
+  "trafficking": {
+    "papers": 3
+  },
+  "transcribed": {
+    "papers": 3
+  },
+  "transcript": {
+    "papers": 3
+  },
+  "transcription": {
+    "papers": 12
+  },
+  "transcriptional": {
+    "papers": 8
+  },
+  "transcriptome": {
+    "papers": 4
+  },
+  "transcripts": {
+    "papers": 4
+  },
+  "transfected": {
+    "papers": 7
+  },
+  "transgene": {
+    "papers": 2
+  },
+  "translation": {
+    "papers": 5
+  },
+  "translocation": {
+    "papers": 4
+  },
+  "transport": {
+    "papers": 4
+  },
+  "treated": {
+    "papers": 8
+  },
   "treatment": {
+    "papers": 5
+  },
+  "trna": {
+    "papers": 3
+  },
+  "tube": {
+    "papers": 2
+  },
+  "tubules": {
+    "papers": 2
+  },
+  "tubulin": {
     "papers": 2
   },
   "tumor": {
+    "papers": 8
+  },
+  "tumors": {
+    "papers": 3
+  },
+  "turnover": {
+    "papers": 2
+  },
+  "type": {
+    "papers": 5
+  },
+  "tyrosine": {
+    "papers": 3
+  },
+  "uas": {
     "papers": 4
   },
-  "united": {
+  "ubiquitin": {
+    "papers": 5
+  },
+  "ubiquitinated": {
+    "papers": 3
+  },
+  "ubiquitylation": {
+    "papers": 2
+  },
+  "unc": {
+    "papers": 2
+  },
+  "uptake": {
     "papers": 2
   },
   "using": {
-    "papers": 5
+    "papers": 17
   },
-  "van": {
-    "papers": 4
-  },
-  "via": {
+  "validation": {
     "papers": 2
   },
-  "vitro": {
-    "papers": 5
+  "values": {
+    "papers": 3
   },
-  "vivo": {
+  "vamp": {
+    "papers": 2
+  },
+  "vamp3": {
+    "papers": 2
+  },
+  "vamp7": {
+    "papers": 2
+  },
+  "van": {
+    "papers": 3
+  },
+  "variant": {
+    "papers": 3
+  },
+  "variants": {
+    "papers": 4
+  },
+  "variation": {
+    "papers": 2
+  },
+  "vehicle": {
+    "papers": 2
+  },
+  "vesicle": {
+    "papers": 3
+  },
+  "vesicles": {
     "papers": 6
   },
-  "zhang": {
+  "vidal": {
+    "papers": 2
+  },
+  "view": {
+    "papers": 2
+  },
+  "virus": {
     "papers": 3
+  },
+  "vitro": {
+    "papers": 4
+  },
+  "vivo": {
+    "papers": 2
+  },
+  "wall": {
+    "papers": 2
+  },
+  "wang": {
+    "papers": 5
+  },
+  "weeks": {
+    "papers": 2
+  },
+  "western": {
+    "papers": 7
+  },
+  "white": {
+    "papers": 4
+  },
+  "wide": {
+    "papers": 4
+  },
+  "wild": {
+    "papers": 4
+  },
+  "wilson": {
+    "papers": 3
+  },
+  "worms": {
+    "papers": 2
+  },
+  "yamanaka": {
+    "papers": 2
+  },
+  "yeast": {
+    "papers": 13
+  },
+  "zhang": {
+    "papers": 2
   }
 }

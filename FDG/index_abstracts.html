@@ -33,8 +33,8 @@ var width = 960,
 var color = d3.scale.category20();
 
 var force = d3.layout.force()
-    .charge(-1200)
-    .linkStrength(0.2)
+    .charge(-120)
+    .linkDistance(30)
     .size([width, height]);
 
 var svg = d3.select("body").append("svg")
@@ -76,19 +76,16 @@ var parseJsonInput = function(jsonInput, keywordsDictionary) {
 	return jsonResult;
 }
 	
-d3.json("keyword_matrix_kmeans.json", function(error, graphKeywords) {
+d3.json("keyword_matrix_abstracts.json", function(error, graphKeywords) {
 
-	d3.json("keywords_kmeans.json", function(error, keywordsDictionary) {
+	d3.json("keywords_abstracts.json", function(error, keywordsDictionary) {
 
 		  var graph = parseJsonInput(graphKeywords, keywordsDictionary);
   
 		  force
 			  .nodes(graph.nodes)
 			  .links(graph.links)
-			  .linkDistance(function(link, i) { 
-			  	return 1/link.value * 1000; 
-			  })
-			  .gravity(0.1)
+			  .distance(400)
 			  .size([2000,1000])
 			  .start();
 
@@ -98,27 +95,7 @@ d3.json("keyword_matrix_kmeans.json", function(error, graphKeywords) {
 			  .attr("class", "link")
 			  .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
-var gnodes = svg.selectAll('g.gnode')
-     .data(graph.nodes)
-     .enter()
-     .append('g')
-     .classed('gnode', true);
-    
-  var node = gnodes.append("circle")
-      .attr("class", "node")
-      .attr("r", 5)
-      .each(function(d,i){
-		d3.select(this).attr("r", Math.max(keywordsDictionary[d.name].papers * 1,10));
-	  })
-      .style("fill", function(d) { return "#ccf"; })
-      .call(force.drag);
-
-  var labels = gnodes.append("text")
-      .text(function(d) { return d.name; })
-      .style("text-anchor", "middle");
-
-      /*
-		  var node = svg.selectAll(".node")
+var node = svg.selectAll(".node")
 			  .data(graph.nodes)
 			.enter().append("circle")
 			  .attr("class", "node")
@@ -130,16 +107,15 @@ var gnodes = svg.selectAll('g.gnode')
 
 		  node.append("title")
 			  .text(function(d) { return d.name; });
-*/
+
 		  force.on("tick", function() {
 			link.attr("x1", function(d) { return d.source.x; })
 				.attr("y1", function(d) { return d.source.y; })
 				.attr("x2", function(d) { return d.target.x; })
 				.attr("y2", function(d) { return d.target.y; });
 
-			gnodes.attr("transform", function(d) { 
-		        return 'translate(' + [d.x, d.y] + ')'; 
-		    });
+			node.attr("cx", function(d) { return d.x; })
+				.attr("cy", function(d) { return d.y; });
 		  });
 		
 	})

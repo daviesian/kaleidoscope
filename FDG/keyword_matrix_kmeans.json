@@ -1,0 +1,52 @@
+{
+  "base": {
+    "mechan": 2,
+    "protein": 2
+  },
+  "capac": {
+    "mechan": 2
+  },
+  "compart": {
+    "mechan": 2,
+    "protein": 3
+  },
+  "fork": {},
+  "mechan": {
+    "base": 2,
+    "capac": 2,
+    "compart": 2,
+    "membran": 8,
+    "polycomb": 2,
+    "protein": 14,
+    "repres": 4,
+    "somat": 2,
+    "substrat": 8
+  },
+  "membran": {
+    "mechan": 8,
+    "protein": 10
+  },
+  "pirna": {},
+  "polycomb": {
+    "mechan": 2
+  },
+  "protein": {
+    "base": 2,
+    "compart": 3,
+    "mechan": 14,
+    "membran": 10,
+    "repres": 5,
+    "substrat": 5
+  },
+  "repres": {
+    "mechan": 4,
+    "protein": 5
+  },
+  "somat": {
+    "mechan": 2
+  },
+  "substrat": {
+    "mechan": 8,
+    "protein": 5
+  }
+}

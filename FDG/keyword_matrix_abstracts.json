@@ -1,0 +1,292 @@
+{
+  "activity": {
+    "binding": 9,
+    "cells": 7,
+    "domain": 6,
+    "essential": 6,
+    "protein": 7,
+    "regulation": 6,
+    "role": 6
+  },
+  "binding": {
+    "activity": 9,
+    "data": 6,
+    "dependent": 6,
+    "domain": 10,
+    "human": 7,
+    "interaction": 6,
+    "mechanism": 9,
+    "mediated": 6,
+    "protein": 7,
+    "results": 6,
+    "reveal": 6,
+    "signaling": 7,
+    "site": 6,
+    "specific": 7,
+    "structures": 6,
+    "substrate": 6
+  },
+  "cell": {
+    "cells": 9,
+    "demonstrate": 6,
+    "dependent": 6,
+    "key": 6,
+    "protein": 6,
+    "proteins": 7,
+    "signaling": 6
+  },
+  "cells": {
+    "activity": 7,
+    "cell": 9,
+    "differentiation": 6,
+    "domains": 6,
+    "embryonic": 8,
+    "findings": 6,
+    "membrane": 6,
+    "mouse": 8,
+    "protein": 6,
+    "regulation": 6,
+    "stem": 11,
+    "using": 6
+  },
+  "cellular": {
+    "proteins": 6
+  },
+  "complex": {
+    "domain": 8,
+    "function": 6,
+    "protein": 8,
+    "reveal": 6,
+    "role": 6
+  },
+  "control": {
+    "gene": 6
+  },
+  "data": {
+    "binding": 6,
+    "paperclip": 6,
+    "specific": 6
+  },
+  "demonstrate": {
+    "cell": 6
+  },
+  "dependent": {
+    "binding": 6,
+    "cell": 6,
+    "key": 7,
+    "mechanism": 7,
+    "process": 6,
+    "protein": 8,
+    "role": 6
+  },
+  "differentiation": {
+    "cells": 6
+  },
+  "domain": {
+    "activity": 6,
+    "binding": 10,
+    "complex": 8,
+    "domains": 6,
+    "factor": 6,
+    "function": 6,
+    "key": 6,
+    "mechanism": 7,
+    "protein": 8,
+    "proteins": 6,
+    "results": 7,
+    "reveal": 6,
+    "terminal": 8
+  },
+  "domains": {
+    "cells": 6,
+    "domain": 6
+  },
+  "embryonic": {
+    "cells": 8,
+    "stem": 6
+  },
+  "essential": {
+    "activity": 6
+  },
+  "factor": {
+    "domain": 6
+  },
+  "factors": {
+    "rna": 6
+  },
+  "findings": {
+    "cells": 6
+  },
+  "formation": {
+    "protein": 6
+  },
+  "function": {
+    "complex": 6,
+    "domain": 6,
+    "gene": 6,
+    "protein": 8
+  },
+  "gene": {
+    "control": 6,
+    "function": 6
+  },
+  "human": {
+    "binding": 7
+  },
+  "identified": {
+    "protein": 6,
+    "specific": 6
+  },
+  "interaction": {
+    "binding": 6,
+    "protein": 6
+  },
+  "key": {
+    "cell": 6,
+    "dependent": 7,
+    "domain": 6,
+    "mechanism": 7,
+    "protein": 8,
+    "specific": 6,
+    "yeast": 6
+  },
+  "mechanism": {
+    "binding": 9,
+    "dependent": 7,
+    "domain": 7,
+    "key": 7,
+    "protein": 10
+  },
+  "mediated": {
+    "binding": 6,
+    "protein": 7
+  },
+  "membrane": {
+    "cells": 6,
+    "protein": 8,
+    "proteins": 7
+  },
+  "mouse": {
+    "cells": 8,
+    "stem": 6
+  },
+  "paperclip": {
+    "data": 6
+  },
+  "poorly": {
+    "understood": 9
+  },
+  "process": {
+    "dependent": 6
+  },
+  "protein": {
+    "activity": 7,
+    "binding": 7,
+    "cell": 6,
+    "cells": 6,
+    "complex": 8,
+    "dependent": 8,
+    "domain": 8,
+    "formation": 6,
+    "function": 8,
+    "identified": 6,
+    "interaction": 6,
+    "key": 8,
+    "mechanism": 10,
+    "mediated": 7,
+    "membrane": 8,
+    "proteins": 13,
+    "regulation": 6,
+    "results": 8,
+    "role": 6,
+    "structure": 6,
+    "structures": 6,
+    "yeast": 6
+  },
+  "proteins": {
+    "cell": 7,
+    "cellular": 6,
+    "domain": 6,
+    "membrane": 7,
+    "protein": 13,
+    "results": 7,
+    "signaling": 6,
+    "yeast": 6
+  },
+  "regulation": {
+    "activity": 6,
+    "cells": 6,
+    "protein": 6
+  },
+  "results": {
+    "binding": 6,
+    "domain": 7,
+    "protein": 8,
+    "proteins": 7,
+    "reveal": 6
+  },
+  "reveal": {
+    "binding": 6,
+    "complex": 6,
+    "domain": 6,
+    "results": 6
+  },
+  "rna": {
+    "factors": 6,
+    "transcription": 6
+  },
+  "role": {
+    "activity": 6,
+    "complex": 6,
+    "dependent": 6,
+    "protein": 6
+  },
+  "signaling": {
+    "binding": 7,
+    "cell": 6,
+    "proteins": 6
+  },
+  "site": {
+    "binding": 6
+  },
+  "specific": {
+    "binding": 7,
+    "data": 6,
+    "identified": 6,
+    "key": 6
+  },
+  "stem": {
+    "cells": 11,
+    "embryonic": 6,
+    "mouse": 6
+  },
+  "structure": {
+    "protein": 6
+  },
+  "structures": {
+    "binding": 6,
+    "protein": 6,
+    "substrate": 6
+  },
+  "substrate": {
+    "binding": 6,
+    "structures": 6
+  },
+  "terminal": {
+    "domain": 8
+  },
+  "transcription": {
+    "rna": 6
+  },
+  "understood": {
+    "poorly": 9
+  },
+  "using": {
+    "cells": 6
+  },
+  "yeast": {
+    "key": 6,
+    "protein": 6,
+    "proteins": 6
+  }
+}
